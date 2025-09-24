@@ -8,7 +8,7 @@ A principal finalidade de um protótipo de alta fidelidade é proporcionar uma v
 
 ## Metodologia
 
-Neste documento está o protótipo desenvolvido na ferramenta [FIGMA](https://www.figma.com/), e também a validação do protótipo de alta fidelidade referente aos  Requisitos Não Implementados: [AD30]((https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais)) e [AD31](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais), no [AD30]((https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais)) o usuário tem a opção de retornar a etapas anteriores como por exemplo no fluxo das etapas de compra sem perder as informações já fornecidas e no requisito [AD31](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais) o usuário tem a opção de filtragem dos produtos para facilitar a busca por algum item. A validação foi feita com a participante Thalia Faria, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
+Neste documento está o protótipo desenvolvido na ferramenta [FIGMA](https://www.figma.com/), e também a validação do protótipo de alta fidelidade referente aos  Requisitos Não Implementados: [AD30]((https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#funcionais)) e [AD31](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#funcionais), no [AD30]((https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#funcionais)) o usuário tem a opção de retornar a etapas anteriores como por exemplo no fluxo das etapas de compra sem perder as informações já fornecidas e no requisito [AD31](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#funcionais) o usuário tem a opção de filtragem dos produtos para facilitar a busca por algum item. A validação foi feita com a participante Thalia Faria, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
@@ -87,7 +87,7 @@ Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas
 
 
 ## Resultados
-A participante avaliou positivamente as duas funcionaildades implementadasque são descritas nos requisitos funcionais [AD30]((https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais)) e [AD31](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais) não encontrando nenhuma inconsistência nas funcionalidades apresentadas no protótipo, a participante também não sugeriu nenhuma outra alteração ou nova funcionalidade para melhorar a realização das tarefas representadas no projeto.
+A participante avaliou positivamente as duas funcionaildades implementadasque são descritas nos requisitos funcionais [AD30]((https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#funcionais)) e [AD31](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#funcionais) não encontrando nenhuma inconsistência nas funcionalidades apresentadas no protótipo, a participante também não sugeriu nenhuma outra alteração ou nova funcionalidade para melhorar a realização das tarefas representadas no projeto.
 
 
 ## Histórico de Versões

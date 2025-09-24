@@ -6,7 +6,7 @@ A verificação é uma das etapas mais importantes do desenvolvimento de um proj
 
 ## Objetivos
 
-O objetivo deste documento é verificar se o artefato produzido [Grupo 4](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README) possuem os itens e o padrão exigidos para tais.
+O objetivo deste documento é verificar se o artefato produzido [Grupo 4](https://mmclovin.github.io/2024.1-Gov.br/#/README) possuem os itens e o padrão exigidos para tais.
 
 ## Metodologia
 
@@ -271,7 +271,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Problemas Encontrados
 
-Abaixo estão os problemas encontrados problemas para a [UC07 - Visualizar documentos](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/casos_de_uso?id=uc07-visualizar-documentos).
+Abaixo estão os problemas encontrados problemas para a [UC07 - Visualizar documentos](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/casos_de_uso?id=uc07-visualizar-documentos).
 
 ID 08: A especificação do caso de uso possui Fluxo Alternativo?
 Avaliação: não
@@ -298,7 +298,7 @@ Comentário: o caso de uso não apresenta um fluxo alternativo
 
 ## Problemas Encontrados
 
-Abaixo estão os problemas encontrados problemas para a [UC08 - Baixar documentos](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/casos_de_uso?id=uc08-baixar-documentos).
+Abaixo estão os problemas encontrados problemas para a [UC08 - Baixar documentos](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/casos_de_uso?id=uc08-baixar-documentos).
 
 ID 08: A especificação do caso de uso possui Fluxo Alternativo?
 Avaliação: não

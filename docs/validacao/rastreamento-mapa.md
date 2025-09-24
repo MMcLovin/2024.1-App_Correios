@@ -8,7 +8,7 @@ A principal finalidade de um protótipo de alta fidelidade é proporcionar uma v
 
 ## Metodologia
 
-Neste documento está o protótipo desenvolvido na ferramenta [Figma](https://www.figma.com), e também a validação do protótipo de alta fidelidade referente ao  Requisito Não Implementado: [BS18](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#antes-da-refatoração) e RF18 na [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.1-Correios/pos-rastreabilidade/matriz/#requisitos-funcionais), que estipula que o usuário deverá ver a localização da sua encomenda em transporte no mapa. A validação foi feita com o usuário ENTREVISTADO, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
+Neste documento está o protótipo desenvolvido na ferramenta [Figma](https://www.figma.com), e também a validação do protótipo de alta fidelidade referente ao  Requisito Não Implementado: [BS18](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/brainstorming/#antes-da-refatoração) e RF18 na [Matriz de Rastreabilidade](https://mmclovin.github.io/2024.1-App_Correios/pos-rastreabilidade/matriz/#requisitos-funcionais), que estipula que o usuário deverá ver a localização da sua encomenda em transporte no mapa. A validação foi feita com o usuário ENTREVISTADO, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
@@ -39,7 +39,7 @@ Abaixo na tabela 2, está o perfil do Entrevistado:
 
 ## Protótipo de Alta Fidelidade
 
-Abaixo, é possível ver imagens do protótipo de alta fidelidade feito para o requisito [BS18](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#antes-da-refatoração).
+Abaixo, é possível ver imagens do protótipo de alta fidelidade feito para o requisito [BS18](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/brainstorming/#antes-da-refatoração).
 
 <font size="2"><p style="text-align: center">Link para o figma com o protótipo.</p></font>
 

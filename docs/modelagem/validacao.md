@@ -6,7 +6,7 @@ A validação de casos de uso é uma fase essencial no desenvolvimento de softwa
 
 ## Metodologia
 
-A validação dos [Casos de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/) foi feita após a equipe desenvolver o diagrama e a especificação dos casos de uso do aplicativo Correios.
+A validação dos [Casos de Uso](https://mmclovin.github.io/2024.1-App_Correios/modelagem/casos_de_uso/) foi feita após a equipe desenvolver o diagrama e a especificação dos casos de uso do aplicativo Correios.
 
 A validação aconteceu no dia e local especificado abaixo, na tabela 1. O Mediador, [Claudio Henrique](https://github.com/claudiohsc), iniciou a sessão perguntando o consentimento da participante, e depois da confirmação dela, a sessão foi continuou. Dessa forma, foram lidos e apresentados todos os casos de uso foram lidos e validados pela participante, além do diagrama.
 

@@ -1,11 +1,11 @@
 # Verificação Three Level Scale
 ## Introdução
 
-Nesse artefato, está descrito os resultados da verificação do artefato de verificação [Three Level Scale](https://requisitos-de-software.github.io/2024.1-Gov.br/#/priorizacao/ThreeLevelScale) artefato realizado pelo [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README) da matéria de requisitos de software, no caso fazendo sobre o aplicativo do [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Lembrando que o foco não é apontar quem errou ou não e sim os problemas apresentados no artefato produzido.
+Nesse artefato, está descrito os resultados da verificação do artefato de verificação [Three Level Scale](https://mmclovin.github.io/2024.1-Gov.br/#/priorizacao/ThreeLevelScale) artefato realizado pelo [Grupo 04](https://mmclovin.github.io/2024.1-Gov.br/#/README) da matéria de requisitos de software, no caso fazendo sobre o aplicativo do [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Lembrando que o foco não é apontar quem errou ou não e sim os problemas apresentados no artefato produzido.
 
 ## Metodologia
 
-Este artefato foi vericado por [Gaabriel B. Bertolazi](https://github.com/Bertolazi), seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/). Para a verificação do artefato foi utilizada a versão 1.1 datada do dia 22/04/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste momento, em que para cada item você pode responder de 3 maneiras ("Sim", "Não" ou "Incompleto"), e a fonte fundamentada, ao final na seção [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi vericado por [Gaabriel B. Bertolazi](https://github.com/Bertolazi), seguindo a divisão planejada pelo grupo na [reunião 5](https://mmclovin.github.io/2024.1-App_Correios/atas/ata5/). Para a verificação do artefato foi utilizada a versão 1.1 datada do dia 22/04/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste momento, em que para cada item você pode responder de 3 maneiras ("Sim", "Não" ou "Incompleto"), e a fonte fundamentada, ao final na seção [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 ## Apresenteção dos dados 
 
@@ -41,7 +41,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 > 1. Bourque, P.; Fairley, R. **Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK**. IEEE Computer Society, 2014. Disponível em: <http://www.computer.org/web/swebok/v3. p>
 >
->2. Gabriel, Arthur; Santos, Isaque. **MoSCoW**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: <https://requisitos-de-software.github.io/2024.1-Gov.br/#/priorizacao/moscow>. Acesso em: 09 maio 2023.
+>2. Gabriel, Arthur; Santos, Isaque. **MoSCoW**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: <https://mmclovin.github.io/2024.1-Gov.br/#/priorizacao/moscow>. Acesso em: 09 maio 2023.
 
 
 ## Referências Bibliograficas

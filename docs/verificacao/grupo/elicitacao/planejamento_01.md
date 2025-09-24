@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Nessa etapa ocorrerá a verificação, uma parte muito importante no desenvolvimento de um projeto, onde os artefatos produzidos serão analisados para que cumpram com critérios de qualidade especificados. Nesse documento é apresentado o planejamento da verificação dos artefatos produzidos pelo próprio [Grupo 3](https://requisitos-de-software.github.io/2024.1-Correios/), referente ao aplicativo dos [Correios](https://www.correios.com.br).
+Nessa etapa ocorrerá a verificação, uma parte muito importante no desenvolvimento de um projeto, onde os artefatos produzidos serão analisados para que cumpram com critérios de qualidade especificados. Nesse documento é apresentado o planejamento da verificação dos artefatos produzidos pelo próprio [Grupo 3](https://mmclovin.github.io/2024.1-App_Correios/), referente ao aplicativo dos [Correios](https://www.correios.com.br).
 
 
 ## Metodologia

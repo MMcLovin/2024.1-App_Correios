@@ -8,7 +8,7 @@ A principal finalidade de um protótipo de alta fidelidade é proporcionar uma v
 
 ## Metodologia
 
-Neste documento está o protótipo desenvolvido na ferramenta [FIGMA](https://www.figma.com/), e também a validação do protótipo de alta fidelidade referente ao  Requisito Não Implementado: [AD08](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/#requisitos-nao-funcionais), que estipula que a funcionalidade deve estar de fácil acesso na página principal do aplicativo, e o [AD03](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/#requisitos-funcionais) que estipula que o usuário deve poder mudar a entreg apra um locker disponível baseado em seu CEP. A validação foi feita com o usuário Alexandre Vieira, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
+Neste documento está o protótipo desenvolvido na ferramenta [FIGMA](https://www.figma.com/), e também a validação do protótipo de alta fidelidade referente ao  Requisito Não Implementado: [AD08](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/requisitos_elicitados/#requisitos-nao-funcionais), que estipula que a funcionalidade deve estar de fácil acesso na página principal do aplicativo, e o [AD03](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/requisitos_elicitados/#requisitos-funcionais) que estipula que o usuário deve poder mudar a entreg apra um locker disponível baseado em seu CEP. A validação foi feita com o usuário Alexandre Vieira, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 

@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Léxicos](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/lexicos) feito pelo [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de [Léxicos](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/lexicos) feito pelo [Grupo 04](https://mmclovin.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Este artefato foi verificado por [Gabriel B. Bertolazi](https://github.com/Bertolazi), seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/).Para a verificação do artefato, foi utilizada a versão `x` datada do dia x/x/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não" ou "Incompleto") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
+Este artefato foi verificado por [Gabriel B. Bertolazi](https://github.com/Bertolazi), seguindo a divisão planejada pelo grupo na [reunião 5](https://mmclovin.github.io/2024.1-App_Correios/atas/ata5/).Para a verificação do artefato, foi utilizada a versão `x` datada do dia x/x/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não" ou "Incompleto") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
 
 ## Apresentação dos Dados
 
@@ -16,7 +16,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 #### Léxicos do Tipo Verbo
 
-Os léxicos do tipo verbo verificados podem ser encontrados [aqui](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/lexicos?id=l%c3%a9xicos-do-tipo-verbo).
+Os léxicos do tipo verbo verificados podem ser encontrados [aqui](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/lexicos?id=l%c3%a9xicos-do-tipo-verbo).
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
@@ -46,7 +46,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 #### Léxicos do Tipo Objeto
 
-Os léxicos do tipo objeto verificados podem ser encontrados [aqui](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/lexicos?id=l%c3%a9xicos-do-tipo-objeto).
+Os léxicos do tipo objeto verificados podem ser encontrados [aqui](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/lexicos?id=l%c3%a9xicos-do-tipo-objeto).
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
@@ -68,7 +68,7 @@ Os léxicos do tipo objeto verificados podem ser encontrados [aqui](https://requ
 
 ##### Problemas Encontrados
 
-Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Léxicos para os [léxicos do tipo objeto](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/lexicos?id=l%c3%a9xicos-do-tipo-objeto).
+Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Léxicos para os [léxicos do tipo objeto](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/lexicos?id=l%c3%a9xicos-do-tipo-objeto).
 
 - ID 03: Todos os sinônimos tem nos léxicos como um símbolo?
     - Avaliação: não
@@ -76,7 +76,7 @@ Abaixo estão os problemas encontrados com base no checklist de verificação ap
 
 #### Léxicos do Tipo Estado
 
-Os léxicos do tipo estado verificados podem ser encontrados [aqui](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/lexicos?id=l%c3%a9xicos-do-tipo-estado).
+Os léxicos do tipo estado verificados podem ser encontrados [aqui](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/lexicos?id=l%c3%a9xicos-do-tipo-estado).
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 

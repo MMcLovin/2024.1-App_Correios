@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Backlog](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/backlog) feito pelo [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de [Backlog](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/agil/backlog) feito pelo [Grupo 04](https://mmclovin.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Este artefato foi verificado por [Gabriel F. J. Silva](https://github.com/MMcLovin), seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/). Para a verificação do artefato, foi utilizada a versão `1.1` datada do dia 27/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Para cada item do checklist, será atribuído uma avaliação entre "Sim", "Não" ou "Incompleto". A lista de verificação também conta tanto com uma coluna de descrição do item em verificação quanto outra para a fonte que o fundamenta. Ao final, será comentado os itens negativos na seção de [Problemas Encontrados](#problemas-encontrados).
+Este artefato foi verificado por [Gabriel F. J. Silva](https://github.com/MMcLovin), seguindo a divisão planejada pelo grupo na [reunião 5](https://mmclovin.github.io/2024.1-App_Correios/atas/ata5/). Para a verificação do artefato, foi utilizada a versão `1.1` datada do dia 27/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Para cada item do checklist, será atribuído uma avaliação entre "Sim", "Não" ou "Incompleto". A lista de verificação também conta tanto com uma coluna de descrição do item em verificação quanto outra para a fonte que o fundamenta. Ao final, será comentado os itens negativos na seção de [Problemas Encontrados](#problemas-encontrados).
 
 ## Apresentação dos Dados
 
@@ -40,10 +40,10 @@ Abaixo, na Tabela 1, temos o checklist elaborado para a verificação e já pree
 
 ## Problemas Encontrados
 
-Não foram encontrados problemas relevantes no backlog, porém, um ponto que não ficou muito claro na descrição do próprio artefato é de como foi feita a priorização das histórias de usuário, onde houve a participação de um PO, o que só foi possível de descobrir indo até a página do artefato de [histórias de usuário](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/historia_usuario?id=valida%c3%a7%c3%a3o-das-hist%c3%b3rias-de-usu%c3%a1rio) e assistindo à gravação. 
+Não foram encontrados problemas relevantes no backlog, porém, um ponto que não ficou muito claro na descrição do próprio artefato é de como foi feita a priorização das histórias de usuário, onde houve a participação de um PO, o que só foi possível de descobrir indo até a página do artefato de [histórias de usuário](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/agil/historia_usuario?id=valida%c3%a7%c3%a3o-das-hist%c3%b3rias-de-usu%c3%a1rio) e assistindo à gravação. 
 
 ## Bibliografia
->1. Lino, Ester. **Backlog do Projeto**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/backlog. Acesso em: 09 maio 2023.
+>1. Lino, Ester. **Backlog do Projeto**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/agil/backlog. Acesso em: 09 maio 2023.
 
 ## Referências Bibliográficas
 

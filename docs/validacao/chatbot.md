@@ -8,7 +8,7 @@ A principal finalidade de um protótipo de alta fidelidade é proporcionar uma v
 
 ## Metodologia
 
-Neste documento está o protótipo desenvolvido na ferramenta [JustinMind](https://www.justinmind.com), e também a validação do protótipo de alta fidelidade referente ao Requisito Não Implementado: [BS12](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#antes-da-refatoração), que estipula que "O usuário deve ter acesso a um Chatbot para suporte ao cliente" e da História de Usuário [US13](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/historias_de_usuario/). A validação foi feita com a usuária Isabelly Sophia, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
+Neste documento está o protótipo desenvolvido na ferramenta [JustinMind](https://www.justinmind.com), e também a validação do protótipo de alta fidelidade referente ao Requisito Não Implementado: [BS12](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/brainstorming/#antes-da-refatoração), que estipula que "O usuário deve ter acesso a um Chatbot para suporte ao cliente" e da História de Usuário [US13](https://mmclovin.github.io/2024.1-App_Correios/modelagem/agil/historias_de_usuario/). A validação foi feita com a usuária Isabelly Sophia, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
@@ -30,7 +30,7 @@ Abaixo na tabela 2, está o perfil do Entrevistado:
 
 ## Protótipo de Alta Fidelidade
 
-Na Figura 1 e 2, é possível ver imagens do protótipo de alta fidelidade feito para o Requisito Não Implementado: [BS12](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#antes-da-refatoração).
+Na Figura 1 e 2, é possível ver imagens do protótipo de alta fidelidade feito para o Requisito Não Implementado: [BS12](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/brainstorming/#antes-da-refatoração).
 
 <font size="2"><p style="text-align: center">Figura 1 - Imagens do Protótipo.</p></font>
 
@@ -45,7 +45,8 @@ Na Figura 1 e 2, é possível ver imagens do protótipo de alta fidelidade feito
 
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique][ClaudioGH]</p></font>
 
-[Link para a pasta com as imagens](https://github.com/Requisitos-de-Software/2024.1-Correios/tree/verificacao/grupo/docs/assets/validacao/prints-prototipo-chat/prints-individuais)
+[Link para a pasta com as imagens](https://github.com/MMcLovin/2024.1-App_Correios/tree/main/docs/assets/validacao/prints-prototipo-chat/prints-individuais)
+
 
 [Link para acessar o protótipo](https://cloud.justinmind.com/usernote/prototype/b68519e817616484072d2ad7b3135c6ff3dce0a5cf1fd201e8c61f532862090b)
 

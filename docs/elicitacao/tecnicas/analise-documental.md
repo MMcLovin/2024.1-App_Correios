@@ -8,7 +8,7 @@ O processo começa com uma análise preliminar para selecionar os documentos mai
 
 ## Metodologia
 
-A partir da análise documental do projeto realizado pelo Grupo 03 da disciplina de Interação Humano-Computador, foram identificadas funcionalidades presentes no site dos correios (realizar uma pré-postagem, receber encomendas, gerenciar importações e busca por documentos perdidos) que estavam implementadas no aplicativo e passaram desapercebidas pelas técnicas de elicitação utilizadas até então ([Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/), [Observação](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/) e [Questionário](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/)) e outras que não estavam implementadas no aplicativo. 
+A partir da análise documental do projeto realizado pelo Grupo 03 da disciplina de Interação Humano-Computador, foram identificadas funcionalidades presentes no site dos correios (realizar uma pré-postagem, receber encomendas, gerenciar importações e busca por documentos perdidos) que estavam implementadas no aplicativo e passaram desapercebidas pelas técnicas de elicitação utilizadas até então ([Brainstorming](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/brainstorming/), [Observação](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/observacao/) e [Questionário](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/)) e outras que não estavam implementadas no aplicativo. 
 
 Com isso, foram elicitados requisitos relacionados às respectivas funcionalidades, seguindo a estrutura proposta por Vazquez et. al (2016), em que, presente na Tabela 02, temos uma pergunta que queremos responder, uma resposta à ela, o requisito proveniente dessa resposta e também adicionamos o ID desse requisito dentro desse artefato,o seu tipo e versão, cada seção de requisitos elicitados está separada em *tabs* que permitem vizualizar a evolução de versões de cada requisito, onde apenas os requisitos que sofreram alterações estão presentes nas versões subsequentes. Ao final da página, também temos as Tabelas 8 e 9 que, respectivamente, agrupam os requisitos funcionais e não-funcionais elicitados, em suas versões mais atuais.
 
@@ -20,8 +20,8 @@ Na Tabela 1 abaixo, temos os documentos analisados junto a suas versões e as da
 
 | Artefato | Versão | Data |
 | -------- | :----: | :--: |
-| [Análise Hieraquica de Tarefas (HTA)](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/hta/) | `1.0` | 05/05/2024 |
-| [CMN-GOMS ](https://interacao-humano-computador.github.io/2024.1-Correios/analise_de_requisitos/analise_tarefas/cmn_goms/) | `1.0` | 05/05/2024 |
+| [Análise Hieraquica de Tarefas (HTA)](https://interacao-humano-computador.github.io/2024.1-App_Correios/analise_de_requisitos/analise_tarefas/hta/) | `1.0` | 05/05/2024 |
+| [CMN-GOMS ](https://interacao-humano-computador.github.io/2024.1-App_Correios/analise_de_requisitos/analise_tarefas/cmn_goms/) | `1.0` | 05/05/2024 |
 
 </center>
 
@@ -277,7 +277,7 @@ Na Tabela 7 estão os requisitos elicitados para a loja online dos correios.
 >
 > 2. Microsoft Teams. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software](https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software). Acesso em: 20 de Maio de 2024.
 >
-> 3. Grupo 03 de Interação Humano-Computador 2024.1. Projeto do site Correios. Disponível em : [Correios IHC](https://github.com/Interacao-Humano-Computador/2024.1-Correios). Acesso em: 20 de Maio de 2024
+> 3. Grupo 03 de Interação Humano-Computador 2024.1. Projeto do site Correios. Disponível em : [Correios IHC](https://github.com/Interacao-Humano-Computador/2024.1-App_Correios). Acesso em: 20 de Maio de 2024
 >
 > 4. Retraining Requirements Enginereeing. Análise de Documentos, 2024. Disponível em: [URL](https://retraining.inf.ufsc.br/guia/app/classificacoes/tecnicas-de-elicitacao-de-requisitos/entidades/tecnicas-de-elicitacao-de-requisitos-analise-de-documentos). Acesso em: 20 de maio de 2024.
 >

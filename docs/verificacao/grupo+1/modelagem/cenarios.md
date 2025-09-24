@@ -2,15 +2,15 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios) feito pelo [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Para essa verificação do artefato será utilizada a versão `1.5` datada do dia 20/05/2024.
+Neste artefato, está descrito os resultados da verificação do artefato de [Cenários](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/cenarios) feito pelo [Grupo 04](https://mmclovin.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Para essa verificação do artefato será utilizada a versão `1.5` datada do dia 20/05/2024.
 
 ## Objetivo
 
-O objetivo dessa verificação é detectar prováveis problemas no [artefato](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios) em questão produzido pelo  [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+O objetivo dessa verificação é detectar prováveis problemas no [artefato](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/cenarios) em questão produzido pelo  [Grupo 04](https://mmclovin.github.io/2024.1-Gov.br/#/README). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos o checklist do artefato de Cenários e para cada item será atribuído uma avaliação entre: Sim, Não ou Incompleto. Ao final será melhor comentado os itens negativos na seção de [Problemas Encontrados](#problemas-encontrados). O checklist será aplicado por todos os membros do grupo que avaliarão os cenários produzidos por cada integrante do [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README).
+Adotamos a metodologia de inspeção por checklist neste processo. Utilizaremos o checklist do artefato de Cenários e para cada item será atribuído uma avaliação entre: Sim, Não ou Incompleto. Ao final será melhor comentado os itens negativos na seção de [Problemas Encontrados](#problemas-encontrados). O checklist será aplicado por todos os membros do grupo que avaliarão os cenários produzidos por cada integrante do [Grupo 04](https://mmclovin.github.io/2024.1-Gov.br/#/README).
 
 ## Apresentação dos Dados
 
@@ -38,7 +38,7 @@ Abaixo, na tabela 1, está apresentado o checklist para os cenários e logo apó
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/cenarios).
 
 - ID xx: Descrição
     - Avaliação:
@@ -65,7 +65,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/cenarios).
 
 - ID 03: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
     - Avaliação: Incompleto.
@@ -97,7 +97,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/cenarios).
 
 - ID xx: Descrição
     - Avaliação: OK
@@ -127,7 +127,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/cenarios).
 
 - ID 06: Os cenários possuem alguma ligação com os léxicos?
     - Avaliação: O cenário 03 não possui nenhum ligação com os léxicos.
@@ -156,7 +156,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/cenarios).
 
 - ID 03: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
     - Não.
@@ -189,7 +189,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Problemas Encontrados
 
-Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de cenários para [agendar uma visita ao Palácio do Planalto](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios?id=cen%c3%a1rio-5-agendamento-de-visita-ao-pal%c3%a1cio-do-planalto-govbr).
+Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de cenários para [agendar uma visita ao Palácio do Planalto](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/cenarios?id=cen%c3%a1rio-5-agendamento-de-visita-ao-pal%c3%a1cio-do-planalto-govbr).
 
 - ID 3: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
     - Avaliação: incompleto
@@ -267,7 +267,7 @@ Abaixo temos a realização em video e tabela 7 da verificação.
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/cenarios).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Cenários](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/cenarios).
 
 - ID 03: O contexto descreve o estado inicial: suas pré-condições, o local (físico) e o tempo?
     - Avaliação: Não

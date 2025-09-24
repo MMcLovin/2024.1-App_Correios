@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/requisitos_elicitados) feito pelo [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Para essa verificação do artefato será utilizada a versão `1.0` datada do dia 17/04/2024.
+Neste artefato, está descrito os resultados da verificação do artefato de [Requisitos Elicitados](https://mmclovin.github.io/2024.1-Gov.br/#/elicitacao/requisitos_elicitados) feito pelo [Grupo 04](https://mmclovin.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Para essa verificação do artefato será utilizada a versão `1.0` datada do dia 17/04/2024.
 
 ## Objetivo
 
-O objetivo dessa verificação é detectar prováveis problemas no [artefato](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/requisitos_elicitados) em questão produzido pelo  [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+O objetivo dessa verificação é detectar prováveis problemas no [artefato](https://mmclovin.github.io/2024.1-Gov.br/#/elicitacao/requisitos_elicitados) em questão produzido pelo  [Grupo 04](https://mmclovin.github.io/2024.1-Gov.br/#/README). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
@@ -37,7 +37,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/requisitos_elicitados).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato de [Requisitos Elicitados](https://mmclovin.github.io/2024.1-Gov.br/#/elicitacao/requisitos_elicitados).
 
 - ID 1: O artefato possui tabelas separadas para requisitos "funcionais" e "não funcionais"? 
     - Avaliação: Não.

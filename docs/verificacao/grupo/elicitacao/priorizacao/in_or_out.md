@@ -118,5 +118,5 @@ pie
 [PG. 318]: ../../../../assets/prints_verificacao/elias/in_or_out/318.png
 
 
-[In or out]: https://requisitos-de-software.github.io/2024.1-Correios/priorizacao/tecnicas/inorout/
-[Grupo 03 Correios]: https://requisitos-de-software.github.io/2024.1-Correios/
+[In or out]: https://mmclovin.github.io/2024.1-App_Correios/priorizacao/tecnicas/inorout/
+[Grupo 03 Correios]: https://mmclovin.github.io/2024.1-App_Correios/

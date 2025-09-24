@@ -33,7 +33,7 @@ Meu nome é Claudio Henrique e sou estudante de Engenharia de Software, atualmen
 
 Gostaríamos de solicitar sua validação por meio de uma comprovação informal. Temos interesse em receber feedback da equipe de stakeholders do projeto para garantir que estamos seguindo o caminho correto. Assim como, dicas ou conselhos sobre como podemos aprimorar nosso trabalho. Sua experiência e orientação são de grande importância para nosso aprendizado e desenvolvimento profissional.
 
-Agradecemos antecipadamente por sua atenção e colaboração. Nosso projeto está disponível no link: https://requisitos-de-software.github.io/2024.1-Correios/
+Agradecemos antecipadamente por sua atenção e colaboração. Nosso projeto está disponível no link: https://mmclovin.github.io/2024.1-App_Correios/
 
 Nesse link podem encontrar toda a documentação dos artefatos produzidos.
 

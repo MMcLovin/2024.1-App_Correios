@@ -1,6 +1,6 @@
 ## Introdução
 
-O grupo iniciou com algumas opções de aplicativos analisados pelos próprios integrantes para desenvolvermos o trabalho, e eles estão disponíveis no nosso artefato de [Aplicativos Avaliados](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/appsavaliados/). Apesar de possuirmos uma [lista](https://requisitos-de-software.github.io/2024.1-Correios/pre-rastreabilidade/appsavaliados/) interessante, resolvemos analisar em conjunto mais um aplicativo que foi o escolhido para desenvolver o projeto da disciplina de Requisitos de Software, o aplicativo dos [Correios](https://www.correios.com.br).
+O grupo iniciou com algumas opções de aplicativos analisados pelos próprios integrantes para desenvolvermos o trabalho, e eles estão disponíveis no nosso artefato de [Aplicativos Avaliados](https://mmclovin.github.io/2024.1-App_Correios/pre-rastreabilidade/appsavaliados/). Apesar de possuirmos uma [lista](https://mmclovin.github.io/2024.1-App_Correios/pre-rastreabilidade/appsavaliados/) interessante, resolvemos analisar em conjunto mais um aplicativo que foi o escolhido para desenvolver o projeto da disciplina de Requisitos de Software, o aplicativo dos [Correios](https://www.correios.com.br).
 
 ## Critérios de Escolha
 
@@ -22,7 +22,7 @@ O grupo iniciou com algumas opções de aplicativos analisados pelos próprios i
 
 <font size="2"><p style="text-align: center"> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa</a>, 2019. </p></font>
 
-Primeiramente, a equipe escolheu utilizar o aplicativo do [Serasa](https://play.google.com/store/apps/details?id=br.com.serasaexperian.consumidor&hl=pt_BR) que é uma plataforma que permite realizar a consulta de CPF, negociação de dívidas, consulta da pontuação Serasa Score, consultar ofertas de cartão de crédito, monitorar seu CPF entre outros. Apesar do aplicativo contar com diversas funcionalidades e possuir abertura para realizar um projeto desse tipo, a equipe resolveu mudar a escolha de aplicativo após a [Entrega 1](https://requisitos-de-software.github.io/2024.1-Correios/Apresentações/Apresentação_01/). 
+Primeiramente, a equipe escolheu utilizar o aplicativo do [Serasa](https://play.google.com/store/apps/details?id=br.com.serasaexperian.consumidor&hl=pt_BR) que é uma plataforma que permite realizar a consulta de CPF, negociação de dívidas, consulta da pontuação Serasa Score, consultar ofertas de cartão de crédito, monitorar seu CPF entre outros. Apesar do aplicativo contar com diversas funcionalidades e possuir abertura para realizar um projeto desse tipo, a equipe resolveu mudar a escolha de aplicativo após a [Entrega 1](https://mmclovin.github.io/2024.1-App_Correios/Apresentações/Apresentação_01/). 
 
 O motivo da mudança foi que a equipe também participa da disciplina de Interação Humano Computador, e nela resolvemos desenvolver o projeto com o site dos [Correios](https://www.correios.com.br/#). Notamos que os Correios também possui um aplicativo e então foi decidido em equipe a mudança da nossa escolha para o [aplicativo dos Correios](https://play.google.com/store/apps/details?id=br.com.correios.preatendimento&hl=pt_BR). 
 

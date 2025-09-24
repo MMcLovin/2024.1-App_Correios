@@ -8,7 +8,7 @@ A principal finalidade de um protótipo de alta fidelidade é proporcionar uma v
 
 ## Metodologia
 
-Neste documento está o protótipo desenvolvido na ferramenta Figma, e também a validação do protótipo de alta fidelidade referente aos  Requisitos Não Implementados: [Q04](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/) e [Q05](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/), que estipula que o usuário deve ter um Chat para se comunicar diretamente com o fornecedor e com o entrgador. A validação foi feita com o usuário Artur Rodrigues, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
+Neste documento está o protótipo desenvolvido na ferramenta Figma, e também a validação do protótipo de alta fidelidade referente aos  Requisitos Não Implementados: [Q04](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/) e [Q05](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/), que estipula que o usuário deve ter um Chat para se comunicar diretamente com o fornecedor e com o entrgador. A validação foi feita com o usuário Artur Rodrigues, utilizando o método de entrevista. Os detalhes sobre o cronograma da entrevista estão na Tabela 1 abaixo:
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
@@ -30,7 +30,7 @@ Abaixo na tabela 2, está o perfil do Entrevistado:
 
 ## Protótipo de Alta Fidelidade
 
-Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito para os requisitos [Q04](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/) e [Q05](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/).
+Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito para os requisitos [Q04](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/) e [Q05](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/).
 
 
 ![Print do Protótipo](../assets/validacao/danilo/prototipo.jpeg)

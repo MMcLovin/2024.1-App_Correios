@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Cenários](../../../modelagem/cenarios.md) feito pelo [Grupo 03](https://requisitos-de-software.github.io/2024.1-Correios/) da disciplina de Requisitos de Software referente ao aplicativo [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de [Cenários](../../../modelagem/cenarios.md) feito pelo [Grupo 03](https://mmclovin.github.io/2024.1-App_Correios/) da disciplina de Requisitos de Software referente ao aplicativo [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Este artefato foi produzido por [Pablo S. Costa][PabloGH] e verificado por Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo e Gabriel B. Bertolazi, seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 18/05/2024. Adotamos a metodologia de inspeção baseada no Método Fagan (1976) por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi produzido por [Pablo S. Costa][PabloGH] e verificado por Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo e Gabriel B. Bertolazi, seguindo a divisão planejada pelo grupo na [reunião 7](https://mmclovin.github.io/2024.1-App_Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 18/05/2024. Adotamos a metodologia de inspeção baseada no Método Fagan (1976) por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com as referências bibliográficas.</p></font>
 
@@ -577,7 +577,7 @@ pie
     - Comentário: não estão descritas as características pessoais dos atores
 - ID 06: Os cenários possuem alguma ligação com os léxicos?
     - Avaliação: não
-    - Comentário: não há nada que indica uma ligação com o artefato de [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/)
+    - Comentário: não há nada que indica uma ligação com o artefato de [Léxicos](https://mmclovin.github.io/2024.1-App_Correios/modelagem/lexicos/)
 
 ### Sumário dos resultados
 
@@ -659,7 +659,7 @@ pie
     - Comentário: não estão descritas as características pessoais dos atores
 - ID 06: Os cenários possuem alguma ligação com os léxicos?
     - Avaliação: não
-    - Comentário: não há nada que indica uma ligação com o artefato de [Léxicos](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/)
+    - Comentário: não há nada que indica uma ligação com o artefato de [Léxicos](https://mmclovin.github.io/2024.1-App_Correios/modelagem/lexicos/)
 
 ### Sumário dos resultados
 

@@ -1,6 +1,6 @@
 ## Introdução
 
-Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos responsáveis por cada um dos artefatos dentro do planejamento, as informações aqui presentes podem ser vistas no artefato [Cronograma](https://requisitos-de-software.github.io/2024.1-Correios/planejamento/cronograma/), a seguir estará a lista dos nossos cronogramas:
+Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos responsáveis por cada um dos artefatos dentro do planejamento, as informações aqui presentes podem ser vistas no artefato [Cronograma](https://mmclovin.github.io/2024.1-App_Correios/planejamento/cronograma/), a seguir estará a lista dos nossos cronogramas:
 
 === "Entrega 1"
 

@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) feito pelo [Grupo 03](https://requisitos-de-software.github.io/2024.1-Correios/) da disciplina de Requisitos de Software referente ao aplicativo [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de [Especificação Suplementar](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/) feito pelo [Grupo 03](https://mmclovin.github.io/2024.1-App_Correios/) da disciplina de Requisitos de Software referente ao aplicativo [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Este artefato foi produzido por [Gabriel F. J. Silva][GabrielFGH] e verificado por [Ricardo Augusto][RicardoGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `2.0` datada do dia 24/06/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi produzido por [Gabriel F. J. Silva][GabrielFGH] e verificado por [Ricardo Augusto][RicardoGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://mmclovin.github.io/2024.1-App_Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `2.0` datada do dia 24/06/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com as referências bibliográficas.</p></font>
 
@@ -69,7 +69,7 @@ Abaixo temos os dados obtidos na verificação, presentes na Tabela 02 até Tabe
 
 #### Problemas Encontrados
 
-Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [F (Funcionalidade)](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/#funcionalidade).
+Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [F (Funcionalidade)](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/#funcionalidade).
 
 - **ID XX: Descrição** 
     - Avaliação: 
@@ -107,7 +107,7 @@ Abaixo estão os problemas encontrados com base no checklist de verificação ap
 
 #### Problemas Encontrados
 
-Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [U (Usabilidade)](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/#usabilidade).
+Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [U (Usabilidade)](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/#usabilidade).
 
 - **ID XX: Descrição** 
     - Avaliação: 
@@ -145,7 +145,7 @@ Abaixo estão os problemas encontrados com base no checklist de verificação ap
 
 #### Problemas Encontrados
 
-Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [R (Confiabilidade)](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/#confiabilidade).
+Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [R (Confiabilidade)](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/#confiabilidade).
 
 - **ID XX: Descrição** 
     - Avaliação: 
@@ -181,7 +181,7 @@ Abaixo estão os problemas encontrados com base no checklist de verificação ap
 <font size="2"><p style="text-align: center">Fonte: [GAbriel B. Bertolazi](https://github.com/Bertolazi).</p></font>
 
 #### Problemas Encontrados
-Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [R (Desempenho)](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/#desempenho).
+Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [R (Desempenho)](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/#desempenho).
 
 - **ID XX: Descrição** 
     - Avaliação: 
@@ -218,7 +218,7 @@ Abaixo estão os problemas encontrados com base no checklist de verificação ap
 
 #### Problemas Encontrados
 
-Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [S (Suporte)](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/#suportabilidade).
+Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [S (Suporte)](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/#suportabilidade).
 
 - **ID XX: Descrição** 
     - Avaliação: 
@@ -256,7 +256,7 @@ Abaixo estão os problemas encontrados com base no checklist de verificação ap
 
 #### Problemas Encontrados
 
-Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [+ (Restrições de Design)](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/#restricoes-de-design).
+Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [+ (Restrições de Design)](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/#restricoes-de-design).
 
 - **ID XX: Descrição** 
     - Avaliação: 
@@ -295,7 +295,7 @@ Abaixo estão os problemas encontrados com base no checklist de verificação ap
 
 #### Problemas Encontrados
 
-Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [+ (Ajuda e Documentação)](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/#ajuda-e-documentacao).
+Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [+ (Ajuda e Documentação)](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/#ajuda-e-documentacao).
 
 - **ID XX: Descrição** 
     - Avaliação: 

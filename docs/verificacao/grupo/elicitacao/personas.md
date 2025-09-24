@@ -130,5 +130,5 @@ pie
 [Pg.170]: ../../../assets/imagens_referencias/personas/170.png
 [Pg.171]: ../../../assets/imagens_referencias/personas/171.png
 
-[Personas]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/personas/
-[Grupo 03 Correios]: https://requisitos-de-software.github.io/2024.1-Correios/
+[Personas]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/personas/
+[Grupo 03 Correios]: https://mmclovin.github.io/2024.1-App_Correios/

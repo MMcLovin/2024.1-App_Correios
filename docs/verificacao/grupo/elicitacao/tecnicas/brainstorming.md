@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Brainstorming](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/) feito pelo [Grupo 03](https://requisitos-de-software.github.io/2024.1-Correios/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de [Brainstorming](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/brainstorming/) feito pelo [Grupo 03](https://mmclovin.github.io/2024.1-App_Correios/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Este artefato foi verificado por [Gabriel B. Bertolazi][GabrielBGH], e verificado por [Gabriel F. J. Silva][GabrielFGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/).Para a verificação do artefato, foi utilizada a versão `1.4` datada do dia 23/06/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) (tabela 1) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi verificado por [Gabriel B. Bertolazi][GabrielBGH], e verificado por [Gabriel F. J. Silva][GabrielFGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://mmclovin.github.io/2024.1-App_Correios/atas/ata7/).Para a verificação do artefato, foi utilizada a versão `1.4` datada do dia 23/06/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) (tabela 1) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 
 ### Checklist de verificação

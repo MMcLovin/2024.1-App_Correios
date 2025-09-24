@@ -1,10 +1,10 @@
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Casos de uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/#2-realizar-compras-na-loja-online) feito pelo [Grupo 03](https://requisitos-de-software.github.io/2024.1-Correios/) da disciplina de Requisitos de Software referente ao aplicativo [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de [Casos de uso](https://mmclovin.github.io/2024.1-App_Correios/modelagem/casos_de_uso/#2-realizar-compras-na-loja-online) feito pelo [Grupo 03](https://mmclovin.github.io/2024.1-App_Correios/) da disciplina de Requisitos de Software referente ao aplicativo [Correios](https://www.correios.com.br/). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Este artefato foi produzido por [Gabriel B. Bertolazi][GabrielBGH] e verificado por [Gabriel B. Bertolazi](https://github.com/Bertolazi), seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 14/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
+Este artefato foi produzido por [Gabriel B. Bertolazi][GabrielBGH] e verificado por [Gabriel B. Bertolazi](https://github.com/Bertolazi), seguindo a divisão planejada pelo grupo na [reunião 7](https://mmclovin.github.io/2024.1-App_Correios/atas/ata7/). Para a verificação do artefato, foi utilizada a versão `1.0` datada do dia 14/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Podemos ver pela Tabela 1 de exemplo, que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica"), o número da referência bibliográfica e um link para um print da referência que o fundamenta o item. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos.
 
 <p align="center" > <strong> Tabela 1 - </strong>Especificação do Caso de uso</font></p>
 
@@ -56,7 +56,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 ## Problemas Encontrados
 
-Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato [Caso de Uso](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/#2-realizar-compras-na-loja-online).
+Aqui será apresentado todos os problemas identificados durante o processo de verificação do artefato [Caso de Uso](https://mmclovin.github.io/2024.1-App_Correios/modelagem/casos_de_uso/#2-realizar-compras-na-loja-online).
 
 - ID xx: Descrição
     - Avaliação: 

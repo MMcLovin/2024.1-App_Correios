@@ -10,7 +10,7 @@ Artefato destinado a explicar o aplicativo escolhido pelo o grupo para o projeto
 <p style="text-align: center"> Figura 1: Logo dos Correios. </p>
 </font>
 
-<center><img style="border: 1px solid white; border-radius: 10%" src="https://requisitos-de-software.github.io/2024.1-Correios/assets/correios-logo.png" width = 40%></center>
+<center><img style="border: 1px solid white; border-radius: 10%" src="https://mmclovin.github.io/2024.1-App_Correios/assets/correios-logo.png" width = 40%></center>
 
 <font size="2">
 <p style="text-align: center"> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa,</a> 2019.</p>

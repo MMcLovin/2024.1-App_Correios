@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de [Histórias de Usuários](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/historia_usuario) feito pelo [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de [Histórias de Usuários](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/agil/historia_usuario) feito pelo [Grupo 04](https://mmclovin.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Este artefato foi construido por [Pablo S. Costa][PabloGH] e verificado pelos outros integrantes dessa equipe, seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/).Para a verificação do artefato, foi utilizada a versão `1.3` datada do dia 27/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
+Este artefato foi construido por [Pablo S. Costa][PabloGH] e verificado pelos outros integrantes dessa equipe, seguindo a divisão planejada pelo grupo na [reunião 5](https://mmclovin.github.io/2024.1-App_Correios/atas/ata5/).Para a verificação do artefato, foi utilizada a versão `1.3` datada do dia 27/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não", "Incompleto" ou "Não se Aplica") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
 
 ## Apresentação dos Dados
 
@@ -297,7 +297,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ### Problemas Encontrados
 
-Não foram encontrados problemas para a [HSU12 - Responder Pesquisas de Satisfação](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/historia_usuario?id=hsu12-responder-pesquisas-de-satisfa%c3%a7%c3%a3o), todos os tópicos foram bem elaborados.
+Não foram encontrados problemas para a [HSU12 - Responder Pesquisas de Satisfação](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/agil/historia_usuario?id=hsu12-responder-pesquisas-de-satisfa%c3%a7%c3%a3o), todos os tópicos foram bem elaborados.
 
 ## HSU13 - Registrar Queixas e Reclamações
 
@@ -318,7 +318,7 @@ Não foram encontrados problemas para a [HSU12 - Responder Pesquisas de Satisfa�
 
 ### Problemas Encontrados
 
-Não foram encontrados problemas para a [HSU13 - Registrar Queixas e Reclamações](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/historia_usuario?id=hsu13-registrar-queixas-e-reclama%c3%a7%c3%b5es), todos os tópicos foram bem elaborados.
+Não foram encontrados problemas para a [HSU13 - Registrar Queixas e Reclamações](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/agil/historia_usuario?id=hsu13-registrar-queixas-e-reclama%c3%a7%c3%b5es), todos os tópicos foram bem elaborados.
 
 ## HSU14 - Login no sistema
 

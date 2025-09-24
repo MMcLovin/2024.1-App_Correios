@@ -218,7 +218,7 @@ Dados Pessoais (LGPD)**. Diário Oficial da União, Brasília, DF, 15 ago. 2018.
 ## Bibliografia
 
 > 1. Sommerville, Ian. **Engenharia de software, Edição 9**. Editora Pearson Prentice Hall, 2011. Disponível em: <https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf>. Acesso em: 16 de Abril de 2024 
-> 2. Grupo 01 de Requisitos de Software 2023.1. **Projeto do aplicativo  Bilheteria Digital**. Disponível em :  <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 16 de Abril de 2024
+> 2. Grupo 01 de Requisitos de Software 2023.1. **Projeto do aplicativo  Bilheteria Digital**. Disponível em :  <https://mmclovin.github.io/2023.1-BilheteriaDigital/>. Acesso em: 16 de Abril de 2024
 
 ## Histórico de Versões
 

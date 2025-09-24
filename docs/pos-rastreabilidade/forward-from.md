@@ -159,7 +159,7 @@ Na tabela 02 abaixo temos os requisitos não-funcionais elicitados e suas relaç
 | REQ67 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | Sim | [CN-05][CN]| |[CSU-06][CSO]|[TM-01][TM] | [EP-01][EP]| | [NFR- Desempenho][NFR]|
 | REQ68 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | Não | | | | | | | |
 | REQ69 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | Não | | [L-17][LX]|[CSU-06][CSO]|[TM-01][TM] | | |[NFR- Desempenho][NFR] |
-| REQ70 | O chat com o entregador deve ser confiável (deve atender às especificações de segurança do [Art. 46](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#referencias-bibliograficas) da LGPD) | Não | | | |[TM-07][TM] |[EP-08][EP] | [US-13][HU]|[NFR- Confiabilidade][NFR] |
+| REQ70 | O chat com o entregador deve ser confiável (deve atender às especificações de segurança do [Art. 46](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#referencias-bibliograficas) da LGPD) | Não | | | |[TM-07][TM] |[EP-08][EP] | [US-13][HU]|[NFR- Confiabilidade][NFR] |
 
 
 
@@ -233,10 +233,10 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
 
-[CN]: https://requisitos-de-software.github.io/2024.1-Correios/modelagem/cenarios/
-[LX]: https://requisitos-de-software.github.io/2024.1-Correios/modelagem/lexicos/
-[CSO]: https://requisitos-de-software.github.io/2024.1-Correios/modelagem/casos_de_uso/
-[TM]: https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/backlog/
-[EP]: https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/backlog/
-[US]: https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/historias_de_usuario/
-[NFR]: https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/nfr-framework/
+[CN]: https://mmclovin.github.io/2024.1-App_Correios/modelagem/cenarios/
+[LX]: https://mmclovin.github.io/2024.1-App_Correios/modelagem/lexicos/
+[CSO]: https://mmclovin.github.io/2024.1-App_Correios/modelagem/casos_de_uso/
+[TM]: https://mmclovin.github.io/2024.1-App_Correios/modelagem/agil/backlog/
+[EP]: https://mmclovin.github.io/2024.1-App_Correios/modelagem/agil/backlog/
+[US]: https://mmclovin.github.io/2024.1-App_Correios/modelagem/agil/historias_de_usuario/
+[NFR]: https://mmclovin.github.io/2024.1-App_Correios/modelagem/agil/nfr-framework/

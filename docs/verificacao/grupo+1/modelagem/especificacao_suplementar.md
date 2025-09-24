@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Este documento apresenta a verificação do artefato de [especificação suplementar](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/especificacao_suplementar) do grupo 04 da matéria de Requisitos de software, que utiliza no desenvolvimento do seu projeto o aplicativo gov.br.
+Este documento apresenta a verificação do artefato de [especificação suplementar](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/especificacao_suplementar) do grupo 04 da matéria de Requisitos de software, que utiliza no desenvolvimento do seu projeto o aplicativo gov.br.
 
 ## Objetivo
 
-O objetivo deste documento é apresentar e mostrar os erros encontrados no artefato da [especificação suplementar](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/especificacao_suplementar) do projeto realizado pelo grupo 04 da matéria de requisitos de software.
+O objetivo deste documento é apresentar e mostrar os erros encontrados no artefato da [especificação suplementar](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/especificacao_suplementar) do projeto realizado pelo grupo 04 da matéria de requisitos de software.
 
 ## Metodologia
 
@@ -194,7 +194,7 @@ Abaixo temos a lista dos problemas encontrados ordenados pelo ID de cada um:
 
 ### Problemas Encontrados
 
-Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [S (Suporte)](https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/especificacao_suplementar?id=s-suporte-supportability).
+Abaixo estão os problemas encontrados com base no checklist de verificação aplicado ao artefato de Especificação Suplementar para [S (Suporte)](https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/especificacao_suplementar?id=s-suporte-supportability).
 
 - ID 16: Os requisitos não-funcionais apresentados são verificáveis?
     - Avaliação: Não

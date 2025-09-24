@@ -358,17 +358,17 @@ Legendas:
 [RicardoGH]: https://www.github.com/avmricardo
 
 <Links das seções da análise documental>
-[ADRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental
-[ADRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental
+[ADRF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/analise-documental
+[ADRNF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/analise-documental
 
 <Links das seções do brainstorm>
-[BSRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
-[BSRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
+[BSRF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
+[BSRNF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
 
 <Links das seções da observação>
-[OBSRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/#requisitos-nao-funcionais-rnf
-[OBSRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/#requisitos-funcionais-rf
+[OBSRNF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/observacao/#requisitos-nao-funcionais-rnf
+[OBSRF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/observacao/#requisitos-funcionais-rf
 
 <Links das seções do questionário>
-[QRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais
-[QRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#nao-funcionais
+[QRF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#funcionais
+[QRNF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#nao-funcionais

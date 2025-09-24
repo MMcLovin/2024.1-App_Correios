@@ -219,7 +219,7 @@ Abaixo, na tabela 9, está especificado o caso de uso para a funcionalidade de "
 >
 > 2. SERRANO M., SERRANO M. Requisitos - Aula 13. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845007/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf>. Acessado em 14 de Maio de 2024.
 >
-> 3. Grupo 01 de Requisitos de Software 2023.1. Projeto do aplicativo Bilheteria Digital. Disponível em : https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/. Acesso em: 19 de Maio de 2024
+> 3. Grupo 01 de Requisitos de Software 2023.1. Projeto do aplicativo Bilheteria Digital. Disponível em : https://mmclovin.github.io/2023.1-BilheteriaDigital/. Acesso em: 19 de Maio de 2024
 ‌
 
 ## Histórico de Versões

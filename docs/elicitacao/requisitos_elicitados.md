@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Essa página contém todos os requisitos funcionais e não funcionais elicitados usando as técnicas de [Análise Documental](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental/#introducao), [brainstorming](tecnicas/brainstorming.md), [observação](tecnicas/observacao.md) e [questionário](tecnicas/questionario.md).
+Essa página contém todos os requisitos funcionais e não funcionais elicitados usando as técnicas de [Análise Documental](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/analise-documental/#introducao), [brainstorming](tecnicas/brainstorming.md), [observação](tecnicas/observacao.md) e [questionário](tecnicas/questionario.md).
 
 ## Metodologia
 
@@ -151,7 +151,7 @@ Legendas:
 
 ## Bibliografia
 
-> 1. Grupo 01 de Requisitos de Software 2023.1. **Projeto do aplicativo  Bilheteria Digital**. Disponível em :  <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/>. Acesso em: 24 de Abril de 2024
+> 1. Grupo 01 de Requisitos de Software 2023.1. **Projeto do aplicativo  Bilheteria Digital**. Disponível em :  <https://mmclovin.github.io/2023.1-BilheteriaDigital/>. Acesso em: 24 de Abril de 2024
 
 ## Histórico de Versões
 
@@ -170,17 +170,17 @@ Legendas:
 [RicardoGH]: https://www.github.com/avmricardo
 
 <Links das seções da análise documental>
-[ADRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental
-[ADRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/analise-documental
+[ADRF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/analise-documental
+[ADRNF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/analise-documental
 
 </Links das seções do brainstorm>
-[BSRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
-[BSRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
+[BSRF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
+[BSRNF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/brainstorming/#requisitos-elicitados
 
 <Links das seções da observação>
-[OBSRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/#requisitos-nao-funcionais-rnf
-[OBSRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/observacao/#requisitos-funcionais-rf
+[OBSRNF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/observacao/#requisitos-nao-funcionais-rnf
+[OBSRF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/observacao/#requisitos-funcionais-rf
 
 </Links das seções do questionário>
-[QRF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#funcionais
-[QRNF]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/tecnicas/questionario/#nao-funcionais
+[QRF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#funcionais
+[QRNF]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#nao-funcionais

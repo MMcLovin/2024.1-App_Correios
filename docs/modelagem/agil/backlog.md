@@ -6,7 +6,7 @@ A metodologia ágil é uma abordagem flexível de gestão de projetos que foca n
 
 ## Metodologia
 
-A metodologia utilizada para a definição do Backlog da nossa equipe baseia-se nos [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/). A partir desses requisitos, é possível agrupá-los e dividi-los em três grupos:: [Temas](#temas), [Épicos](#épicos) e [Histórias do Usuário](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/historias_de_usuario).Os Temas são conjuntos de épicos que se relacionam de alguma forma, enquanto os Épicos são grandes partes do trabalho que, por sua vez, são divididos em tarefas menores, chamadas Histórias de Usuário.
+A metodologia utilizada para a definição do Backlog da nossa equipe baseia-se nos [requisitos elicitados](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/requisitos_elicitados/). A partir desses requisitos, é possível agrupá-los e dividi-los em três grupos:: [Temas](#temas), [Épicos](#épicos) e [Histórias do Usuário](https://mmclovin.github.io/2024.1-App_Correios/modelagem/agil/historias_de_usuario).Os Temas são conjuntos de épicos que se relacionam de alguma forma, enquanto os Épicos são grandes partes do trabalho que, por sua vez, são divididos em tarefas menores, chamadas Histórias de Usuário.
 
 A partir dessa divisão, na Tabela 1, é possível ver os temas, épicos, histórias de usuário e a prioridade de cada história de usuário.
 
@@ -130,7 +130,7 @@ Eu, como usuário, desejo buscar agências próximas e acessar contatos das empr
 
 ## Bibliografia
 
-> Economia-DF. Backlog. Grupo Economia-DF da disciplina Requisitos de Software, dispoível em: <https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/backlog/>. Acesso em: 24 de maio de 2024.
+> Economia-DF. Backlog. Grupo Economia-DF da disciplina Requisitos de Software, dispoível em: <https://mmclovin.github.io/2023.2-Economia-DF/modelagem/agil/backlog/>. Acesso em: 24 de maio de 2024.
 >
 > SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 015): Elicitação, Modelagem e Análise. UnB Gama, Brasília, 2024. Disponível em: https://aprender3.unb.br/pluginfile.php/2845040/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf Acesso em: 24/05/2024.
 

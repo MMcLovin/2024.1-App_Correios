@@ -4,7 +4,7 @@ Neste artefato, está descrito os resultados da verificação do artefato de [Ba
 
 ## Metodologia
 
-Este artefato foi verificado por [Pablo S. Costa][PabloGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata7/). Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Para cada item do checklist, será atribuído uma avaliação entre "Sim", "Não" ou "Incompleto". A lista de verificação também conta tanto com uma coluna de descrição do item em verificação quanto outra para a fonte que o fundamenta. Ao final, será comentado os itens negativos na seção de [Problemas Encontrados](#problemas-encontrados).
+Este artefato foi verificado por [Pablo S. Costa][PabloGH], seguindo a divisão planejada pelo grupo na [reunião 7](https://mmclovin.github.io/2024.1-App_Correios/atas/ata7/). Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo. Para cada item do checklist, será atribuído uma avaliação entre "Sim", "Não" ou "Incompleto". A lista de verificação também conta tanto com uma coluna de descrição do item em verificação quanto outra para a fonte que o fundamenta. Ao final, será comentado os itens negativos na seção de [Problemas Encontrados](#problemas-encontrados).
 
 ## Apresentação dos Dados
 
@@ -91,7 +91,7 @@ pie
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa][PabloGH], 2024.</p></font>
 
 ## Bibliografia
->1. Lino, Ester. **Backlog do Projeto**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: https://requisitos-de-software.github.io/2024.1-Gov.br/#/modelagem/agil/backlog. Acesso em: 09 maio 2023.
+>1. Lino, Ester. **Backlog do Projeto**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: https://mmclovin.github.io/2024.1-Gov.br/#/modelagem/agil/backlog. Acesso em: 09 maio 2023.
 
 
 ## Referências Bibliográficas
@@ -106,8 +106,8 @@ pie
 [REF2-pg41]: ../../../../assets/prints_verificacao/gabrielF/Backlog%20ref2%20-%20pg41.jpeg
 [REF3-pg141]: ../../../../assets/prints_verificacao/gabrielF/Backlog%20ref3%20-%20pg141.jpeg 
 
-[Grupo 03 Correios]: https://requisitos-de-software.github.io/2024.1-Correios/
-[Backlog]: https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/backlog/
+[Grupo 03 Correios]: https://mmclovin.github.io/2024.1-App_Correios/
+[Backlog]: https://mmclovin.github.io/2024.1-App_Correios/modelagem/agil/backlog/
 
 ## Histórico de Versões
 

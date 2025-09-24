@@ -97,6 +97,6 @@ Para validar as histórias de usuário, realizamos uma entrevista com o Product 
 [GabrielFGH]: https://github.com/MMcLovin
 [PabloGH]: https://github.com/pabloheika
 [RicardoGH]: https://www.github.com/avmricardo
-[temas]: https://interacao-humano-computador.github.io/2024.1-Correios/modelagem/agil/backlog/#temas
-[epicos]: https://requisitos-de-software.github.io/2024.1-Correios/modelagem/agil/backlog/#epicos
-[RFlink]: https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/#requisitos-funcionais
+[temas]: https://interacao-humano-computador.github.io/2024.1-App_Correios/modelagem/agil/backlog/#temas
+[epicos]: https://mmclovin.github.io/2024.1-App_Correios/modelagem/agil/backlog/#epicos
+[RFlink]: https://mmclovin.github.io/2024.1-App_Correios/elicitacao/requisitos_elicitados/#requisitos-funcionais

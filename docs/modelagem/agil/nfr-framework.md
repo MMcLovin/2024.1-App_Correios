@@ -151,7 +151,7 @@ Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos req
 |-|-|
 | **Descrição** | O aplicativo requer uma interface amigável e fácil de usar. |
 | **Justificativa** | O sistema deverá possuir uma interface de fácil utilização e que produza uma boa experiência para o usuário. |
-| **Origem** | [USA04- Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
+| **Origem** | [USA04- Especificação Suplementar](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/requisitos_elicitados/) |
 | **Critério de aceitação** | Nenhum. |
 | **Dependências** | Nenhuma Dependência.  |
 | **Prioridade** | 9 |
@@ -170,7 +170,7 @@ Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos req
 |-|-|
 | **Descrição** | O app deverá possuir um sistema de chat bot com opção de redirecionar a um atendente. |
 | **Justificativa** | O sistema deve oferecer um meio rápido e simples de sanar as duvidas do usuário de maneira, ou encaminha-lo para falar com um atendente. |
-| **Origem** | [USA08- Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
+| **Origem** | [USA08- Especificação Suplementar](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/requisitos_elicitados/) |
 | **Critério de aceitação** | Nenhum. |
 | **Dependências** | Nenhuma Dependência.  |
 | **Prioridade** | 7 |
@@ -214,7 +214,7 @@ Nesse tópico, as tabelas 05 e 06 descrevem os cartões de especificação dos r
 |-|-|
 | **Descrição** | O aplicativo deve manter a privacidade dos dados do usuário. |
 | **Justificativa** | Garantir a segurança e privacidade das informações pessoais dos usuários, cumprindo normas e regulamentações de proteção de dados. |
-| **Origem** | [CON01 - Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
+| **Origem** | [CON01 - Especificação Suplementar](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/requisitos_elicitados/) |
 | **Critério de ajuste** | Verificação de que os dados do usuário são protegidos contra acesso não autorizado e utilizados apenas para os fins previstos, conforme políticas de privacidade. |
 | **Dependências** | Nenhuma |
 | **Prioridade** | 10 |
@@ -235,7 +235,7 @@ Nesse tópico, as tabelas 05 e 06 descrevem os cartões de especificação dos r
 |-|-|
 | **Descrição** | O acesso aos pagamentos deve ser protegido por autenticação do usuário. |
 | **Justificativa** | Garantir a segurança das transações financeiras dos usuários, prevenindo acesso não autorizado e fraudes. |
-| **Origem** | [CON02 - Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
+| **Origem** | [CON02 - Especificação Suplementar](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/requisitos_elicitados/) |
 | **Critério de ajuste** | Verificação de que o acesso aos pagamentos requer autenticação do usuário antes de permitir transações financeiras. |
 | **Dependências** | Nenhuma |
 | **Prioridade** | 9 |
@@ -283,7 +283,7 @@ Abaixo nas tabelas 07 e 08 encontram-se os cartões de especificação dos requi
 |-|-|
 | **Descrição** | O aplicativo deve mostrar a entrega em tempo real. |
 | **Justificativa** | É necessário que o feedback da localização das encomendas sejam mais específicos e precisos ao informar a localização e status ao usuário. |
-| **Origem** | [DS01- Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
+| **Origem** | [DS01- Especificação Suplementar](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/requisitos_elicitados/) |
 | **Critério de aceitação** | O usuário deve ser capaz de ver a a localização exata ou aproximada da sua encomenda em tempo real. |
 | **Dependências** | Nenhuma Dependência. |
 | **Prioridade** | 9 |
@@ -302,7 +302,7 @@ Abaixo nas tabelas 07 e 08 encontram-se os cartões de especificação dos requi
 |-|-|
 | **Descrição** | O sistema deve fornecer as notificações ao usuário com um menor tempo de delay possível. |
 | **Justificativa** | Os usuários devem ser notificados em tempo hábil pela aplicação |
-| **Origem** | [DS03- Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/)  |
+| **Origem** | [DS03- Especificação Suplementar](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/requisitos_elicitados/)  |
 | **Critério de ajuste** | As notificações dever ser entregues ao usuário em menor tempo. |
 | **Dependências** | Nenhuma Dependência. |
 | **Prioridade** | 9 |
@@ -347,7 +347,7 @@ Nesse tópico, as tabelas 09 e 10 descrevem os cartões de especificação dos r
 |-|-|
 | **Descrição** | O aplicativo deve funcionar em diferentes sistemas operacionais de smartphones. |
 | **Justificativa** | Assegurar que o aplicativo seja acessível a uma ampla base de usuários, independentemente do sistema operacional de seus dispositivos móveis, aumentando assim sua usabilidade e alcance. |
-| **Origem** | [SU07 - Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
+| **Origem** | [SU07 - Especificação Suplementar](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/requisitos_elicitados/) |
 | **Critério de ajuste** | Verificação de que o aplicativo é funcional e mantém sua integridade em diferentes sistemas operacionais de smartphones, como Android e iOS |
 | **Dependências** | Nenhuma |
 | **Prioridade** | 10 |
@@ -366,7 +366,7 @@ Nesse tópico, as tabelas 09 e 10 descrevem os cartões de especificação dos r
 |-|-|
 | **Descrição** | O app deverá ter tela de ajuda e pop-up "Precisa de ajuda?". |
 | **Justificativa** | Fornecer suporte e orientação aos usuários durante a utilização do aplicativo, facilitando a resolução de dúvidas e problemas de forma rápida e eficiente. |
-| **Origem** | [SU02 - Especificação Suplementar](https://requisitos-de-software.github.io/2024.1-Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://requisitos-de-software.github.io/2024.1-Correios/elicitacao/requisitos_elicitados/) |
+| **Origem** | [SU02 - Especificação Suplementar](https://mmclovin.github.io/2024.1-App_Correios/modelagem/especificacao_suplementar/) e [Requisitos Elicitados](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/requisitos_elicitados/) |
 | **Critério de ajuste** | Verificação da presença e funcionamento adequado da tela de ajuda e do pop-up "Precisa de ajuda?" no aplicativo, garantindo que os usuários tenham acesso fácil e eficaz ao suporte disponível. |
 | **Dependências** | Nenhuma |
 | **Prioridade** | 8 |

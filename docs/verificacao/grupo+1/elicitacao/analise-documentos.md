@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Neste artefato, está descrito os resultados da verificação do artefato de elicitação [Análise de Documentos](https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) feito pelo [Grupo 04](https://requisitos-de-software.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
+Neste artefato, está descrito os resultados da verificação do artefato de elicitação [Análise de Documentos](https://mmclovin.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos) feito pelo [Grupo 04](https://mmclovin.github.io/2024.1-Gov.br/#/README) da disciplina de Requisitos de Software, e referente ao aplicativo [Gov.br](https://play.google.com/store/apps/details?id=br.gov.meugovbr&hl=pt_BR&gl=US). Lembrando que o foco não é apontar quem errou e sim os problemas presentes no artefato produzido, e por fim garantir os critérios de qualidade estabelecidos.
 
 ## Metodologia
 
-Este artefato foi verificado por [Gabriel F. J. Silva](https://github.com/MMcLovin), seguindo a divisão planejada pelo grupo na [reunião 5](https://requisitos-de-software.github.io/2024.1-Correios/atas/ata5/). Para a verificação do artefato, foi utilizada a versão `1.1` datada do dia 19/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não" ou "Incompleto") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
+Este artefato foi verificado por [Gabriel F. J. Silva](https://github.com/MMcLovin), seguindo a divisão planejada pelo grupo na [reunião 5](https://mmclovin.github.io/2024.1-App_Correios/atas/ata5/). Para a verificação do artefato, foi utilizada a versão `1.1` datada do dia 19/05/2024. Adotamos a metodologia de inspeção por [checklist](#checklist-de-verificacao) neste processo, em que para cada item do checklist teremos: descrição do item em verificação, resposta à avaliação (pode ser "Sim", "Não" ou "Incompleto") e a fonte que o fundamenta. Ao final, na seção de [Problemas Encontrados](#problemas-encontrados), são comentados os itens negativos .
 
 ## Apresentação dos Dados
 
@@ -45,11 +45,11 @@ Não foram encontrados problemas relevantes com base no checklist elaborado, por
 
 > 1. Bourque, P.; Fairley, R. **Guide to the Software Engineering Body of Knowledge, Version 3.0. SWEBOK**. IEEE Computer Society, 2014. Disponível em: <http://www.computer.org/web/swebok/v3.>
 >
->2. Berg, Caio. **Análise de Documentos**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: <https://requisitos-de-software.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos>. Acesso em: 09 maio 2023.
+>2. Berg, Caio. **Análise de Documentos**. Repositório do grupo GOV.br da disciplina de Requisitos de Software da Universidade de Brasília, 2024. Disponível em: <https://mmclovin.github.io/2024.1-Gov.br/#/elicitacao/analise_documentos>. Acesso em: 09 maio 2023.
 >
->3. Penha, Igor; Gobbi, Lucas. **Verificação Análise de Documentos VLC**. Repositório do grupo VLC da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-VLC/#/verificacao/entrega_2/analise_documentos>. Acesso em: 09 maio 2023.
+>3. Penha, Igor; Gobbi, Lucas. **Verificação Análise de Documentos VLC**. Repositório do grupo VLC da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <https://mmclovin.github.io/2023.1-VLC/#/verificacao/entrega_2/analise_documentos>. Acesso em: 09 maio 2023.
 >
->3. Moreira, Débora. **Verificação Etapa 2**. Repositório do Letterboxd da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <https://requisitos-de-software.github.io/2023.1-Letterboxd/Verifica%C3%A7%C3%A3o%20e%20Valida%C3%A7%C3%A3o/etapa2/#tabela-de-versionamento>. Acesso em: 09 maio 2023.
+>3. Moreira, Débora. **Verificação Etapa 2**. Repositório do Letterboxd da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <https://mmclovin.github.io/2023.1-Letterboxd/Verifica%C3%A7%C3%A3o%20e%20Valida%C3%A7%C3%A3o/etapa2/#tabela-de-versionamento>. Acesso em: 09 maio 2023.
 
 ## Referências Bibliograficas
 
