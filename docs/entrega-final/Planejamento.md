@@ -12,7 +12,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 1</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
     
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 2</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | --- | --- | --- | --- | --- |
@@ -73,7 +73,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 3</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | --- | --- | --- | --- | --- |
@@ -102,7 +102,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 4</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | --- | --- | --- | --- | --- |
@@ -137,7 +137,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 5</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | :---: | :---: | :---: | :---: | :---: |
@@ -159,7 +159,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 6</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | :---: | :---: | :---: | :---: | :---: |
@@ -185,7 +185,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 7</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | --- | --- | --- | --- | --- |
@@ -206,7 +206,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 8</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | --- | --- | --- | --- | --- |
@@ -230,7 +230,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 9</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | --- | --- | --- | --- | --- |
@@ -250,7 +250,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 10</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | --- | --- | --- | --- | --- |
@@ -273,7 +273,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 11</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | :---: | :---: | :---: | :---: | :---: |
@@ -293,7 +293,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 12</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | :---: | :---: | :---: | :---: | :---: |
@@ -318,7 +318,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 13</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | --- | --- | --- | --- | --- |
@@ -340,7 +340,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 14</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | --- | --- | --- | --- | --- |
@@ -367,7 +367,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 15</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | --- | --- | --- | --- | --- |
@@ -385,7 +385,7 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     <b>Tabela 16</b> 
     </p></font>
 
-    <center>
+    <center markdown="1">
 
     </center>
 

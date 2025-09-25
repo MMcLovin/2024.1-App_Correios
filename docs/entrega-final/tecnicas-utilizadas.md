@@ -9,7 +9,7 @@ Na tabela 1 é possíver as técnicas utilizadas relacionando-as com a entrega e
 
 <font size="2"><p style="text-align: center">Tabela 1 - Tabela de técnicas utilizadas.</p></font>
 
-<center>
+<center markdown="1">
 
 | Entrega | Artefato | Técnica(s) Utilizada(s)| Responsáveis|
 |:---:|:---:|:---:|:---:|

@@ -10,7 +10,7 @@ Este artefato foi produzido por [Danilo Carvalho][DaniloGH] e verificado por [El
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com as referências bibliográficas.</p></font>
 
-<center>
+<center markdown="1">
 
 
 | ID | Descrição | Avaliação | Referência | Print |
@@ -37,7 +37,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <font size="2"><p style="text-align: center">Tabela 2 - Verificação.</p></font>
 
-<center>
+<center markdown="1">
 
 
 | ID | Descrição | Avaliação | Referência | Print |
@@ -79,7 +79,7 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{

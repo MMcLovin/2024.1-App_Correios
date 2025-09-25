@@ -87,7 +87,7 @@ Legenda:
 
     <font size="3"><p style="text-align: center">Tabela 3: Requisitos Não Funcionais versão 1.0.</p></font>
 
-    <center>
+    <center markdown="1">
 
     | Tipo | Descrição | ID | Implementado | Versão |
     |-|-|-|-|-|
@@ -120,7 +120,7 @@ Legenda:
 
     <font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais versão 2.0.</p></font>
 
-    <center>
+    <center markdown="1">
 
     | Tipo | Descrição | ID | Implementado | Versão |
     |--------|-----------|------------|-----------|--------|

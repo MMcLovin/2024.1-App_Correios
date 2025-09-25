@@ -16,7 +16,7 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 
 <font size="2"><p style="text-align: center">Tabela 1 - Modelo para a Matriz.</p></font>
 
-<center>
+<center markdown="1">
 
 
 | ID | Descrição | Elicitação | Artefato | Implentação | Elos |
@@ -31,7 +31,7 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 
 <font size="2"><p style="text-align: center">Tabela 2 - Legendas dos artefatos de requisitos.</p></font>
 
-<center>
+<center markdown="1">
 
 | Abreviação    | Descrição                            |
 | -------       | ------------------------------------ |
@@ -58,7 +58,7 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 
 <font size="2"><p style="text-align: center">Tabela 3 - Matriz para os Requisitos funcionais presentes no projeto.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Elicitação | Artefato | Implementação | Elos |
 | --- | --- | --- | --- | --- | --- |
@@ -129,7 +129,7 @@ A Tabela/Matriz criada consiste em organizar os requisitos encontrados e relacio
 
 <font size="2"><p style="text-align: center">Tabela 3 - Matriz para os Requisitos Não Funcionais presentes no projeto.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Elicitação | Artefato | Implementação | Elos |
 | --- | --- | --- | --- | --- | --- |

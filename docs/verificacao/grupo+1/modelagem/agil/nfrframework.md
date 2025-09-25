@@ -16,7 +16,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -47,7 +47,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Tabela 2 - Checklist NFR 01 - Confiabilidade.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -76,7 +76,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Tabela 3 - NFR02- Ajuda e Documentação.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -99,7 +99,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -128,7 +128,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Tabela 5 - NFR02- Ajuda e Documentação.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -151,7 +151,7 @@ Não foi atestado problemas encontrados no NFR 04
 
 <font size="2"><p style="text-align: center">Tabela 6 - (NFR05) Ajuda e Documentação.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |

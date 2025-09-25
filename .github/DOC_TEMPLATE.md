@@ -6,7 +6,7 @@
 
 <font size="2"><p style="text-align: center">Tabela 1 - Tabela sobre isso.</p></font>
 
-<center>
+<center markdown="1">
 
 | Coluna 1 | Coluna 2 | Coluna 3 |
 |:--------:|----------|---------:|

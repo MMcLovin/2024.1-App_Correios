@@ -6,14 +6,14 @@
 O SuperApp da Serasa é o aplicativo que tem tudo para cuidar da sua vida financeira. Ele permite organizar todas as contas para manter o pagamento em dia, negociar dívidas em seu nome ou no CNPJ de sua empresa, solicitar crédito, consultar e melhorar o seu Score no Serasa, monitorar e protejer seu CPF.
 
 <font size="2"><p style="text-align: center">Figura 1: Rich Picture versão 1.</p></font>
-<center>
+<center markdown="1">
 
 ![Richpicture](../assets/richpicture/Projeto-Serasa-Rich-Picture.drawio.png)
 </center>
 <font size="2"><p style="text-align: center">Fonte: Cláudio, 2024.</p></font>
 
 <font size="2"><p style="text-align: center">Figura 2: Legenda Rich Picture versão 1.</p></font>
-<center>
+<center markdown="1">
 
 ![LegendaRichpicturev1](../assets/richpicture/legenda-rich-picture-serasa.png)
 </center>

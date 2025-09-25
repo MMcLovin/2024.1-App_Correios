@@ -10,7 +10,7 @@ A elaboração deste artefato seguiu uma metodologia clássica, consistindo na r
 
 <font size="2"><p style="text-align: center">Tabela 1 - Elementos do diagrama de casos de uso.</p></font>
 
-<center>
+<center markdown="1">
 
 | Símbolo | Nome | Descrição |
 |:-:|:-:|:-|
@@ -34,7 +34,7 @@ Existem alguns tipos de relacionamento:
 
 <font size="2"><p style="text-align: center">Figura 1 - Diagrama de Casos de Uso.</p></font>
 
-<center>
+<center markdown="1">
 
 ![Diagrama de caso de uso](../assets/modelagem/use-case/diagrama-caso-uso.svg)
 
@@ -50,7 +50,7 @@ A especificação dos casos de uso é uma técnica utilizada para descrever deta
 
 <font size="2"><p style="text-align: center">Tabela 2 - Modelo de especificação de caso de uso.</p></font>
 
-<center>
+<center markdown="1">
 
 | UCxx | Nome do caso de uso |
 |-|-|
@@ -72,7 +72,7 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 
 <font size="2"><p style="text-align: center">Tabela 3 - Calcular preços e prazos de entrega.</p></font>
 
-<center>
+<center markdown="1">
 
 | UC01 | Calcular preços e prazos de entrega |
 |-|-|
@@ -93,7 +93,7 @@ Abaixo, na tabela 3, está especificado o caso de uso para a funcionalidade de "
 Abaixo, na tabela 4, está especificado o caso de uso para a funcionalidade de "Realizar compras na loja online".
 
 <font size="2"><p style="text-align: center">Tabela 4 - Realizar Compras na Loja Online.</p></font>
-<center>
+<center markdown="1">
 
 | UC02 | Realizar compras na loja online |
 |-|-|
@@ -113,7 +113,7 @@ Abaixo, na tabela 4, está especificado o caso de uso para a funcionalidade de "
 Abaixo, na tabela 5, está especificado o caso de uso para a funcionalidade de "Mudar locais de recebimento de pacotes".
 
 <font size="2"><p style="text-align: center">**Tabela 5 - Mudar locais de recebimento de pacotes.**</p></font>
-<center>
+<center markdown="1">
 
 | UC03 | Nome do caso de uso |
 |-|-|
@@ -153,7 +153,7 @@ Abaixo, na tabela 7, está especificado o caso de uso para a funcionalidade de "
 
 <font size="2"><p style="text-align: center">Tabela 7 - Especificação de caso de uso para gerenciar minhas importações.</p></font>
 
-<center>
+<center markdown="1">
 
 | UC05 | Gerenciar minhas importações |
 |-|-|
@@ -175,7 +175,7 @@ Abaixo, na tabela 8, está especificado o caso de uso para a funcionalidade de "
 
 <font size="2"><p style="text-align: center">Tabela 8 - Rastrear encomendas.</p></font>
 
-<center>
+<center markdown="1">
 
 | UC06 | Rastrear Encomendas |
 |-|-|
@@ -197,7 +197,7 @@ Abaixo, na tabela 9, está especificado o caso de uso para a funcionalidade de "
 
 <font size="2"><p style="text-align: center">Tabela 9 - Buscar por documentos perdidos em envios.</p></font>
 
-<center>
+<center markdown="1">
 
 | UC07 | Buscar por documentos perdidos|
 |-|-|

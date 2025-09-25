@@ -283,7 +283,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 ## Gravação corrreção 
 
-<Center>
+<center markdown="1">
 
 <font size="2"><p style="text-align: center">Vídeo 1 - Correção gravada.</p></font>
 

@@ -21,7 +21,7 @@ Legendas:
 
 <font size="2"><p style="text-align: center">Tabela 3 - Requisitos Funcionais Versionados.</p></font>
 
-<Center>
+<center markdown="1">
 
 | ID  | Descrição | Fonte | Implementado | Versão |
 | :-: | --------- | :---: | :----------: | :----: |
@@ -99,7 +99,7 @@ Legendas:
 
 <font size="2"><p style="text-align: center">Tabela 4 - Requisitos Não-Funcionais Versionados.</p></font>
 
-<Center>
+<center markdown="1">
 
 | ID  | Descrição | Fonte | Implementado | Versão |
 | :-: | --------- | :---: | :----------: | :----: |

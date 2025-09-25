@@ -42,7 +42,7 @@ Teremos abaixo na tabela 01 a listagem dos requisitos elicitados com a relação
 Na tabela 01 abaixo temos os requisitos funcionais elicitados e suas relações com os artefatos que foram produzidos na fase de desenvolvimento.
 
 <font size="2"><p style="text-align: center">Tabela 01 : Requisitos Funcionais </p></font>
-<center>
+<center markdown="1">
 
 Requisito | Descrição | Implementado | Cenário | Léxico | Caso de Uso | Tema | Épico | História de Usuário | NFR Framework |
 |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
@@ -122,7 +122,7 @@ Na tabela 02 abaixo temos os requisitos não-funcionais elicitados e suas relaç
 
 <font size="2"><p style="text-align: center">Tabela 02 - Requisitos Não-Funcionais.</p></font>
 
-<Center>
+<center markdown="1">
 
 | Requisito | Descrição | Implementado | Cenário | Léxico | Caso de Uso | Tema | Épico | História de Usuário | NFR Framework |
 |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |

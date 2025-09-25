@@ -15,7 +15,7 @@ Abaixo será apresentada os resultados do checklist e logo após as observaçõe
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |

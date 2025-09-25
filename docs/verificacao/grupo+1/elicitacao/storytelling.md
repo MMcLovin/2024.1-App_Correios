@@ -16,7 +16,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -35,7 +35,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 Gravação da verificação:
 
-<center>
+<center markdown="1">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UKUnzxguu0I?si=5ydLIla60A4WIQPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

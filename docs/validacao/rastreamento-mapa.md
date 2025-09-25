@@ -12,7 +12,7 @@ Neste documento está o protótipo desenvolvido na ferramenta [Figma](https://ww
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
-<center>
+<center markdown="1">
 
 |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
 |:---:|:----:|:----:|:----:|:----:|:-----:|
@@ -26,7 +26,7 @@ Abaixo na tabela 2, está o perfil do Entrevistado:
 
 <font size="2"><p style="text-align: center">Tabela 2 - Perfil do Entrevistado.</p></font>
 
-<center>
+<center markdown="1">
 
 |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
 |:---:|:----:|:----:|:----:|
@@ -43,7 +43,7 @@ Abaixo, é possível ver imagens do protótipo de alta fidelidade feito para o r
 
 <font size="2"><p style="text-align: center">Link para o figma com o protótipo.</p></font>
 
-<center>
+<center markdown="1">
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FVnsUpPXWmPtbFsGCS8cypB%2FUntitled%3Fnode-id%3D0-1%26t%3Dj3KCfMHhNtOr95pw-1" allowfullscreen></iframe>
 
@@ -68,7 +68,7 @@ Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas
 
 <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista de Validação.</p></font>
 
-<center>
+<center markdown="1">
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed" title="Apresentação 7 Interação Humano Computador 2024.1 - Grupo 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -52,7 +52,7 @@ Abaixo temos respectivamente nas tabelas 01 e 02 o checklist de perguntas criado
 <font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 ## Gravação Identificando os Problemas
-<center>
+<center markdown="1">
 
 <font size="2"><p style="text-align: center">Vídeo 1 - Gravação Inspeção do Artefato</p></font>
 
@@ -76,7 +76,7 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{

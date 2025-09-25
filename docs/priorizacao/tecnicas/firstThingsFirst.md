@@ -14,7 +14,7 @@ Para a aplicação da técnica First Things First, é necessária a participaç�
 
 Os participantes estão descritos na tabela [1](#participantes).
 
-<center>
+<center markdown="1">
 <a name="participantes"></a>
 <font size="2"><p>
     <b>Tabela 1</b> - Participantes.
@@ -55,7 +55,7 @@ Legenda:
 - BSxx: Requisito número xx elicitado pela técnica de brainstorming;
 - Qxx: Requisito número xx elicitado pela técnica de questionário.
 
-<center>
+<center markdown="1">
 <a name="requisitosElicitados"></a>
 <font size="2"><p>
     <b>Tabela 2</b> - Requisitos elicitados
@@ -101,7 +101,7 @@ Para a montagem da tabela 3 de priorização, o grupo utilizou os seguintes peso
 - Peso custo relativo: 1;
 - Peso risco relativo: 0.5.
 
-<center>
+<center markdown="1">
 <a name="requisitosElicitados"></a>
 <font size="2"><p>
     <b>Tabela 3</b> - tabela de priorização

@@ -14,7 +14,7 @@ Este artefato foi verificado por [Pablo S. Costa][PabloGH], seguindo a divisão 
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -35,7 +35,7 @@ Abaixo temos a realização em video e tabela 2 da verificação.
 
 <font size="2"><p style="text-align: center">Tabela 2 - check list preenchido.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Observação |
 | --- | --- | --- | --- |

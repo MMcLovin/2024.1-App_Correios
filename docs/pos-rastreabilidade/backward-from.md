@@ -14,7 +14,7 @@ Toranzo (2002) propõe uma classificação que comporta 4 níveis de informaçã
 
 <font size="2"><p style="text-align: center">Tabela 1 - Níveis de informação segundo Toranzo.</p></font>
 
-<Center>
+<center markdown="1">
 
 | Nível de Informação | Descrição |
 | --- | --- |
@@ -35,7 +35,7 @@ A partir das informações descritas no tópico anterior, Toranzo (2002) define 
 
 <font size="2"><p style="text-align: center">Tabela 2 - Relacionamentos entre infomações segundo Toranzo.</p></font>
 
-<Center>
+<center markdown="1">
 
 | Relacionamento | Descrição |
 | --- | --- |
@@ -66,7 +66,7 @@ Legendas:
 
 <font size="2"><p style="text-align: center">Tabela 3 - Requisitos Funcionais Versionados.</p></font>
 
-<Center>
+<center markdown="1">
 
 | ID  | Descrição | Fonte | Implementado | Versão |
 | :-: | --------- | :---: | :----------: | :----: |
@@ -146,7 +146,7 @@ Legendas:
 
 <font size="2"><p style="text-align: center">Tabela 4 - Requisitos Não-Funcionais Versionados.</p></font>
 
-<Center>
+<center markdown="1">
 
 | ID  | Descrição | Fonte | Implementado | Versão |
 | :-: | --------- | :---: | :----------: | :----: |
@@ -202,7 +202,7 @@ Legendas:
 
 <font size="2"><p style="text-align: center">Tabela 5 - Elos dos Requisitos Funcionais.</p></font>
 
-<center>
+<center markdown="1">
 
 |Elo| ID Requisito | Descrição | Tipo de Relacionamento | Descrição do Relacionamento |
 |:---:| ------------ | --------- | :--------------------: | --------------------------- | 
@@ -280,7 +280,7 @@ Legendas:
 
 <font size="2"><p style="text-align: center">Tabela 6 - Elos dos requisitos não funcionais.</p></font>
 
-<center>
+<center markdown="1">
 
 |Elo| ID Requisito | Descrição | Tipo de Relacionamento | Descrição do Relacionamento |
 |:---:| ------------ | --------- | :--------------------: | --------------------------- | 

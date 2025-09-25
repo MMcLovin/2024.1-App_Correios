@@ -8,7 +8,7 @@ Na Tabela 1 terá uma parte para a **Verificação** mas é necessário esclarec
 
 ## Resultado da Execução
 
-<center>
+<center markdown="1">
 
 <font size="2"><p style="text-align: center">**Tabela 1**: Execução do Projeto.</p></font>
 

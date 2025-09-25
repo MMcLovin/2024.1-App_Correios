@@ -8,7 +8,7 @@ O questionário elaborado foi enviado em grupos de telegram e whatsapp, com dest
 
 O questionáiro usado também foi aproveitado para o projeto deste grupo na disciplina de Interação Humano Computador, portanto, aqui serão apresentados apenas os dados do questionário que pertencem à discplina de Requisitos de Software.
 
-<center>
+<center markdown="1">
 <font size="2"><p style="text-align: center">Figura 01 - Fluxo de seções do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/fluxo_questionario.jpg)
@@ -21,7 +21,7 @@ O questionáiro usado também foi aproveitado para o projeto deste grupo na disc
 
 ### Pergunta 1 
 
-<center>
+<center markdown="1">
 <font size="2"><p style="text-align: center">Figura 02 - Gráfico pergunta 1 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P01%20-%20App.png)
@@ -32,7 +32,7 @@ O questionáiro usado também foi aproveitado para o projeto deste grupo na disc
 ### Pergunta 2
 
 
-<center>
+<center markdown="1">
 <font size="2"><p style="text-align: center">Figura 03 - Gráfico pergunta 2 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P02%20-%20App.png)
@@ -42,7 +42,7 @@ O questionáiro usado também foi aproveitado para o projeto deste grupo na disc
 
 ### Pergunta 3
 
-<center>
+<center markdown="1">
 <font size="2"><p style="text-align: center">Figura 04 - Gráfico pergunta 3 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P03%20-%20App.png)
@@ -52,7 +52,7 @@ O questionáiro usado também foi aproveitado para o projeto deste grupo na disc
 
 ### Pergunta 4
 
-<center>
+<center markdown="1">
 <font size="2"><p style="text-align: center">Figura 05 - Gráfico pergunta 4 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P04%20-%20App.png)
@@ -62,7 +62,7 @@ O questionáiro usado também foi aproveitado para o projeto deste grupo na disc
 
 ### Pergunta 5
 
-<center>
+<center markdown="1">
 <font size="2"><p style="text-align: center">Figura 06 - Gráfico pergunta 5 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P05%20-%20App.png)
@@ -72,7 +72,7 @@ O questionáiro usado também foi aproveitado para o projeto deste grupo na disc
 
 ### Pergunta 6
 
-<center>
+<center markdown="1">
 <font size="2"><p style="text-align: center">Figura 07 - Gráfico pergunta 6 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P06%20-%20App.png)
@@ -82,7 +82,7 @@ O questionáiro usado também foi aproveitado para o projeto deste grupo na disc
 
 ### Pergunta 7
 
-<center>
+<center markdown="1">
 <font size="2"><p style="text-align: center">Figura 08 - Gráfico pergunta 7 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P07%20-%20App.png)
@@ -92,7 +92,7 @@ O questionáiro usado também foi aproveitado para o projeto deste grupo na disc
 
 ### Pergunta 8
 
-<center>
+<center markdown="1">
 <font size="2"><p style="text-align: center">Figura 09 - Gráfico pergunta 8 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P08%20-%20App.png)
@@ -102,7 +102,7 @@ O questionáiro usado também foi aproveitado para o projeto deste grupo na disc
 
 ### Pergunta 9
 
-<center>
+<center markdown="1">
 <font size="2"><p style="text-align: center">Figura 10 - Gráfico pergunta 9i do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P09%20-%20App.png)
@@ -112,7 +112,7 @@ O questionáiro usado também foi aproveitado para o projeto deste grupo na disc
 
 ### Pergunta 10
 
-<center>
+<center markdown="1">
 <font size="2"><p style="text-align: center">Figura 11 - Gráfico pergunta 10 do questionário.</p></font>
 
 ![LegendafluxoQuestionario](../../assets/perguntas_questionario/P10%20-%20App.png)
@@ -140,7 +140,7 @@ Legenda Requisitos das tabelas:
 === "`1.0`"
     <font size="2"><p style="text-align: center">Tabela 1 - Requisitos funcionais.</p></font>
 
-    <center>
+    <center markdown="1">
 
     | ID  | Descrição | Tipo | Implementado | Versão |
     | :-: | --------- | :--: | :----------: | :----: |
@@ -159,7 +159,7 @@ Legenda Requisitos das tabelas:
 
     <font size="2"><p style="text-align: center">Tabela 3 - Requisitos funcionais.</p></font>
 
-    <center>
+    <center markdown="1">
 
     | ID  | Descrição | Tipo | Implementado | Versão |
     | :-: | --------- | :--: | :----------: | :----: |
@@ -178,7 +178,7 @@ Legenda Requisitos das tabelas:
 === "`1.0`"
     <font size="2"><p style="text-align: center">Tabela 2 - Requisitos não funcionais.</p></font>
 
-    <center>
+    <center markdown="1">
 
     | ID  | Descrição| Tipo | Implementado | Versão |
     | :-: | -------- | :--: | :----------: | :----: |
@@ -197,7 +197,7 @@ Legenda Requisitos das tabelas:
 
     <font size="2"><p style="text-align: center">Tabela 4 - Requisitos não funcionais.</p></font>
 
-    <center>
+    <center markdown="1">
 
     | ID  | Descrição| Tipo | Implementado | Versão |
     | :-: | -------- | :--: | :----------: | :----: |

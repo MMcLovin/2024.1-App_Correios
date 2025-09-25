@@ -12,7 +12,7 @@ Neste documento está o protótipo, desenvolvido na ferramenta [JustinMind](http
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
-<center>
+<center markdown="1">
 
 | Avaliador | Entrevistado | Horário de Início | Horário de Término | Data | Local |
 | :-------: | :----------: | :---------------: | :----------------: | :--: | :---: |
@@ -26,7 +26,7 @@ Abaixo na tabela 2, está o perfil do Entrevistado:
 
 <font size="2"><p style="text-align: center">Tabela 2 - Perfil do entrevistado.</p></font>
 
-<center>
+<center markdown="1">
 
 | Nome | Idade | Ocupação | Experiência e facilidade com tecnologia |
 | :--: | :---: | :------: | :-------------------------------------: |
@@ -42,7 +42,7 @@ Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito par
 
 <font size="2"><p style="text-align: center">Figura 1 - Tela inicial do protótipo.</p></font>
 
-<center>
+<center markdown="1">
     ![tela](../assets/prototypes/gabrielf/print%20prototipo%205.2.png)
 </center>
 
@@ -71,7 +71,7 @@ Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas
 
 <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista de Validação.</p></font>
 
-<center>
+<center markdown="1">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ByuSvqzX2hg" title="(Entrega 5.2) Validação informal: Protótipo de Alta Fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 

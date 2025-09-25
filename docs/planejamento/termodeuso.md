@@ -4,7 +4,7 @@
 
 # Cópia do Termos de Uso e Política de Privacidade do Correios
 
-<center>
+<center markdown="1">
 <p> <font size="2">Figura 1: Termos de uso do aplicativo</font> </p>
 
 ![Direitos de Propriedade Intelectual do idCorreios e Terceiros](../assets/termodeuso_Correios.jpeg "Direitos de de uso")

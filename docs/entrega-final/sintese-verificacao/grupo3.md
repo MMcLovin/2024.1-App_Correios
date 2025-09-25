@@ -20,7 +20,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 <font size="2"><p style="text-align: center">Tabela 1 - síntese das verificações da etapa de elicitação de requisitos.</p></font>
 
-<center>
+<center markdown="1">
 
 | Artefato | Versão | Data | Autor(es) | Checklist por | Verificado por |
 | -------- | :----: | :--: | --------- | ------------- | -------------- |
@@ -34,7 +34,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 <font size="2"><p style="text-align: center">Tabela 1 - síntese das verificações da etapa de elicitação de requisitos.</p></font>
 
-<center>
+<center markdown="1">
 
 | Artefato | Versão | Data | Autor(es) | Checklist por | Verificado por |
 | -------- | :----: | :--: | --------- | ------------- | -------------- |
@@ -58,7 +58,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 <font size="2"><p style="text-align: center">Tabela 2 - síntese das verificações da etapa de modelagem requisitos.</p></font>
 
-<center>
+<center markdown="1">
 
 | Artefato | Versão | Data | Autor(es) | Checklist por | Verificado por |
 | -------- | :----: | :--: | --------- | ------------- | -------------- |
@@ -81,7 +81,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 <font size="2"><p style="text-align: center">Tabela 3 - síntese das verificações da etapa de modelagem ágil dos requisitos.</p></font>
 
-<center>
+<center markdown="1">
 
 | Artefato | Versão | Data | Autor(es) | Checklist por | Verificado por |
 | -------- | :----: | :--: | --------- | ------------- | -------------- |
@@ -97,7 +97,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 <font size="2"><p style="text-align: center">Tabela 3 - síntese das verificações da etapa de modelagem ágil dos requisitos.</p></font>
 
-<center>
+<center markdown="1">
 
 | Artefato | Versão | Data | Autor(es) | Checklist por | Verificado por |
 | -------- | :----: | :--: | --------- | ------------- | -------------- |
@@ -120,7 +120,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
-    <center>
+    <center markdown="1">
 
     |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
     |:---:|:----:|:----:|:----:|:----:|:-----:|
@@ -132,7 +132,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 2 - Perfil de usuário.</p></font>
 
-    <center>
+    <center markdown="1">
 
     |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
     |:---:|:----:|:----:|:----:|
@@ -155,7 +155,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 3 - Cronograma da Entrevista de Validação.</p></font> 
 
-    <center>
+    <center markdown="1">
 
     |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
     |:---:|:----:|:----:|:----:|:----:|:-----:|
@@ -167,7 +167,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 4 - Perfil de usuário.</p></font>   
 
-    <center>
+    <center markdown="1">
 
     |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
     | ----| -----| -----| -----|
@@ -191,7 +191,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 5 - Cronograma da Entrevista de Validação.</p></font> 
 
-    <center>
+    <center markdown="1">
 
     |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
     |:---:|:----:|:----:|:----:|:----:|:-----:|
@@ -203,7 +203,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 6 - Perfil de usuário.</p></font>   
 
-    <center>
+    <center markdown="1">
 
     |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
     |:---:|:----:|:----:|:----:|
@@ -228,7 +228,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 7 - Cronograma da Entrevista de Validação.</p></font> 
 
-    <center>
+    <center markdown="1">
 
     |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
     |:---:|:----:|:----:|:----:|:----:|:-----:|
@@ -240,7 +240,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 8 - Perfil de usuário.</p></font>   
 
-    <center>
+    <center markdown="1">
 
     |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
     |:---:|:----:|:----:|:----:|
@@ -263,7 +263,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 9 - Cronograma da Entrevista de Validação.</p></font> 
 
-    <center>
+    <center markdown="1">
 
     | Avaliador | Entrevistado | Horário de Início | Horário de Término | Data | Local |
     | :-------: | :----------: | :---------------: | :----------------: | :--: | :---: |
@@ -275,7 +275,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 10 - Perfil de usuário.</p></font>   
 
-    <center>
+    <center markdown="1">
 
     | Nome | Idade | Ocupação | Experiência e facilidade com tecnologia |
     | :--: | :---: | :------: | :-------------------------------------: |
@@ -299,7 +299,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 11 - Cronograma da Entrevista de Validação.</p></font> 
 
-    <center>
+    <center markdown="1">
 
     |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
     |:---:|:----:|:----:|:----:|:----:|:-----:|
@@ -311,7 +311,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 12 - Perfil de usuário.</p></font>   
 
-    <center>
+    <center markdown="1">
 
     |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
     |:---:|:----:|:----:|:----:|
@@ -335,7 +335,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 3 - Cronograma da Entrevista de Validação.</p></font> 
 
-    <center>
+    <center markdown="1">
 
     |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
     |:---:|:----:|:----:|:----:|:----:|:-----:|
@@ -347,7 +347,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
     <font size="2"><p style="text-align: center">Tabela 4 - Perfil de usuário.</p></font>   
 
-    <center>
+    <center markdown="1">
 
     |Nome| Idade| Ocupação| Experiência e facilidade com tecnologia|
     |:---:|:----:|:----:|:----:|

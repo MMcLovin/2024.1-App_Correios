@@ -16,7 +16,7 @@ Na Tabela 1 abaixo, temos os documentos analisados junto a suas versões e as da
 
 <font size="2"><p style="text-align: center"><b>Tabela 1</b>: Documentos analisados. </p></font>
 
-<center>
+<center markdown="1">
 
 | Artefato | Versão | Data |
 | -------- | :----: | :--: |
@@ -38,7 +38,7 @@ Legenda para as Tabelas:
 
 <font size="2"><p style="text-align: center"><b>Tabela 2</b>: Modelo de estrutura. </p></font>
 
-<center>
+<center markdown="1">
 
 | Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão | 
 | -------- | ---------- | ------------------- | -- | ---- | ------ |
@@ -55,7 +55,7 @@ Abaixo, na Tabela 3, estão os requisitos elicitados para  o Recebimento de enco
 
 === "`1.0`"
 
-    <center>
+    <center markdown="1">
 
     <font size="2"><p style="text-align: center"><b>Tabela 3</b>: Requisitos elicitados para o Recebimento de encomendas. </p></font>
 
@@ -76,7 +76,7 @@ Abaixo, na Tabela 3, estão os requisitos elicitados para  o Recebimento de enco
 
 === "`1.1`"
 
-    <center>
+    <center markdown="1">
 
     <font size="2"><p style="text-align: center"><b>Tabela 3</b>: Requisitos elicitados para o Recebimento de encomendas. </p></font>
 
@@ -98,7 +98,7 @@ Na Tabela 4 estão os requisitos elicitados para a funcionalidade de Pré-postag
 === "`1.0`"
     <font size="2"><p style="text-align: center"> <b>Tabela 4</b>: Requisitos elicitados para realizar uma pré-postagem.</p></font>
 
-    <center>
+    <center markdown="1">
 
     | Pergunta| Respondida | Requisito elicitado | ID | Tipo | Versão |
     | ------- | ---------- | ------------------- | -- | ---- | ------ |
@@ -121,7 +121,7 @@ Na Tabela 5 estão os requisitos elicitados para a funcionalidade de Busca por d
 === "`1.0`"
     <font size="2"><p style="text-align: center"><b>Tabela 5</b>: Requisitos elicitados para a Busca por documentos perdidos. </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão |
     | -------- | ---------- | ------------------- | -- | ---- | ------ |
@@ -140,7 +140,7 @@ Na Tabela 6 estão os requisitos elicitados para a funcionalidade de Minhas Impo
 
     <font size="2"><p style="text-align: center"><b>Tabela 6</b>: Requisitos elicitados para o Minhas Importações. </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão |
     |----------|------------|---------------------|----|--------| ------ |
@@ -165,7 +165,7 @@ Na Tabela 6 estão os requisitos elicitados para a funcionalidade de Minhas Impo
 
     <font size="2"><p style="text-align: center"><b>Tabela 6</b>: Requisitos elicitados para o Minhas Importações. </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão |
     | --- | --- | --- | --- | --- | --- |
@@ -187,7 +187,7 @@ Na Tabela 7 estão os requisitos elicitados para a loja online dos correios.
 
     <font size="2"><p style="text-align: center"><b>Tabela 7</b>: Requisitos elicitados para a loja online. </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão |
     |----------|------------|---------------------|----|--------| -|
@@ -203,7 +203,7 @@ Na Tabela 7 estão os requisitos elicitados para a loja online dos correios.
 
     <font size="2"><p style="text-align: center"><b>Tabela 7</b>: Requisitos elicitados para a loja online. </p></font>
 
-    <center>
+    <center markdown="1">
 
     | Pergunta | Respondida | Requisito elicitado | ID | Tipo | Versão | 
     |----------|------------|---------------------|----|--------| - |

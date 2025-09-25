@@ -13,7 +13,7 @@ Os participantes informados na tabela 1, logo abaixo, se reuniram de maneira rem
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes.</p></font>
 
-<center>
+<center markdown="1">
 
 | Nome | Função | 
 |:-----:|:--------:|
@@ -240,7 +240,7 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
     <font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais.</p></font>
 
-    <center>
+    <center markdown="1">
 
     | ID | Descrição    | Tipo | Implementado | Versão |
     | ----------- | --------------- | :------: | :------: |:----:|
@@ -269,7 +269,7 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
     <font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais.</p></font>
 
-    <center>
+    <center markdown="1">
 
     | ID | Descrição    | Tipo | Implementado | Versão |
     | ----------- | --------------- | :------: | :------: |:----:|
@@ -288,7 +288,7 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
     |  BS37 | O app deve ter uma interface com tempo de resposta para qualquer interação do usuário não superior a 2 segundos e uma taxa de falha de operação inferior a 1% | RNF | Sim | `2.0` |
 
 
-<center>
+<center markdown="1">
 
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
@@ -298,7 +298,7 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
 
 ## Reuniões
-<center>
+<center markdown="1">
  **Reunião 01**
 </center>
 
@@ -306,7 +306,7 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
-<center>
+<center markdown="1">
  **Reunião 02**
 </center>
 
@@ -314,7 +314,7 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
-<center>
+<center markdown="1">
  **Reunião 03**
 </center>
 
@@ -322,7 +322,7 @@ Poderiam ser corrigidas implementando um bom suporte por chats ou pop-ups, corri
 
 <font size="3"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc) </p></font>
 
-<center>
+<center markdown="1">
  **Reunião 04**
 </center>
 

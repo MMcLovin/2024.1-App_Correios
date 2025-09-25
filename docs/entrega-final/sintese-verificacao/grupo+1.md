@@ -18,7 +18,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 <font size="2"><p style="text-align: center">Tabela 1 - síntese das verificações da etapa de elicitação de requisitos.</p></font>
 
-<center>
+<center markdown="1">
 
 | Artefato | Versão | Data | Checklist por | Verificado por | Revisor |
 | -------- | :----: | :--: | ------------- | -------------- | ------- |
@@ -43,7 +43,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 <font size="2"><p style="text-align: center">Tabela 2 - síntese das verificações da etapa de modelagem requisitos.</p></font>
 
-<center>
+<center markdown="1">
 
 | Artefato | Versão | Data | Checklist por | Verificado por | Revisor |
 | -------- | :----: | :--: | ------------- | -------------- | ------- |
@@ -60,7 +60,7 @@ O método utlizado foi o de Inspeção proposto por Michael E. Fagan<a href="#re
 
 <font size="2"><p style="text-align: center">Tabela 3 - síntese das verificações da etapa de modelagem ágil dos requisitos.</p></font>
 
-<center>
+<center markdown="1">
 
 | Artefato | Versão | Data | Checklist por | Verificado por | Revisor |
 | -------- | :----: | :--: | --------- | ------------- | -------------- |

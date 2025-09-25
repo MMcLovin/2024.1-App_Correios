@@ -26,7 +26,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 1
 
 <font><p style="text-align: center">**Tabela 1** - Requisitos de Usabilidade.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID    | Descrição                                                                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -54,7 +54,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 2
 
 <font><p style="text-align: center">**Tabela 2** - Requisitos de Confiabilidade.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID    | Descrição                                                                                                                         |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------- |

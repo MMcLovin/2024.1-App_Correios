@@ -12,7 +12,7 @@ Para determinar rapidamente a disponibilidade dos membros da equipe, criamos uma
 
 <font size="2"><p style="text-align: center">Tabela 1: Heatmap.</p></font>
 
-<center>
+<center markdown="1">
 
 ![Heatmap](../assets/heatmap.png)
 

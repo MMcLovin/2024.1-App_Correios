@@ -23,7 +23,7 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 <font size="2" >
 <p style="text-align: center"> Tabela 1: Informações da reunião. </p>
 </font>
-<center>
+<center markdown="1">
  
 | Data | Início | Fim | Local |
 |:-:|:-:|:-:|:-:|
@@ -43,7 +43,7 @@ Pré rastreabilidade
 <font size="2" >
 <p style="text-align: center"> Tabela 2: Divisão de tarefas. </p>
 </font>
-<center>
+<center markdown="1">
  
 | Artefato | Checklist | Verificação |
 |-|-|-|
@@ -59,7 +59,7 @@ Elicitação
 <font size="2" >
 <p style="text-align: center"> Tabela 3: Divisão de tarefas. </p>
 </font>
-<center>
+<center markdown="1">
 
 | Artefato | Checklist | Verificação |
 |-|-|-|
@@ -83,7 +83,7 @@ Modelagem
 <font size="2" >
 <p style="text-align: center"> Tabela 4: Divisão de tarefas. </p>
 </font>
-<center>
+<center markdown="1">
 
 | Artefato | Checklist | Verificação |
 |-|-|-|
@@ -120,7 +120,7 @@ Pós rastreabilidade
 <font size="2" >
 <p style="text-align: center"> Tabela 5: Divisão de tarefas. </p>
 </font>
-<center>
+<center markdown="1">
 
 | Artefato | Checklist | Verificação |
 |-|-|-|

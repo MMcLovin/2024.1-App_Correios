@@ -77,7 +77,7 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{

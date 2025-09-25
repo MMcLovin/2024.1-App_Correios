@@ -36,7 +36,7 @@ Ao analisar o artefato [personas](https://mmclovin.github.io/2024.1-Gov.br/#/Per
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 
 ## Gravação Identificando os Problemas
-<center>
+<center markdown="1">
 
 <font size="2"><p style="text-align: center">Gravação Inspeção do Artefato</p></font>
 

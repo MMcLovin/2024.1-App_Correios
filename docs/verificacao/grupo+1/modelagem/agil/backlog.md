@@ -16,7 +16,7 @@ Abaixo, na Tabela 1, temos o checklist elaborado para a verificação e já pree
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| ------- | :-------: | :-------: |
@@ -32,7 +32,7 @@ Abaixo, na Tabela 1, temos o checklist elaborado para a verificação e já pree
 
 ### Gravação da verificação
 
-<center>
+<center markdown="1">
 
 <iframe width="1519" height="542" src="https://www.youtube.com/embed/aCkvHrJoGmA" title="Entrega 5.1 (Verificação grupo + 1) - Verificação do Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

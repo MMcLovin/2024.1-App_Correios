@@ -9,7 +9,7 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
     <font size="2"><p style="text-align: center"> Tabela 01: Artefatos da etapa 01</p></font>
 
-    <center>
+    <center markdown="1">
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -29,7 +29,7 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
      <font size="2"><p style="text-align: center"> Tabela 02: Artefatos da etapa 02</p></font>
 
-     <center>
+     <center markdown="1">
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -52,7 +52,7 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
      <font size="2"><p style="text-align: center"> Tabela 03: Artefatos da etapa 03</p></font>
 
-     <center>
+     <center markdown="1">
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -70,7 +70,7 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
      <font size="2"><p style="text-align: center"> Tabela 04: Artefatos da etapa 04</p></font>
 
-     <center>
+     <center markdown="1">
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -86,7 +86,7 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
     <font size="2"><p style="text-align: center"> Tabela 05: Artefatos da etapa 5.1</p></font>
 
-    <center>
+    <center markdown="1">
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -115,7 +115,7 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
      <font size="2"><p style="text-align: center"> Tabela 06: Artefatos da etapa 06</p></font>
 
-     <center>
+     <center markdown="1">
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
@@ -131,11 +131,10 @@ Este artefato apresenta uma tabela geral com todos criado durante o processo de 
 
      <font size="2"><p style="text-align: center"> Tabela 07: Artefatos da etapa 5.2</p></font>
 
-     <center>
+     <center markdown="1">
 
     | Artefato | Autor | Revisor |
     | -------- | ----- | ------- |
-    ||||
 
     </center>
 

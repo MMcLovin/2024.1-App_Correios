@@ -10,7 +10,7 @@ Este artefato foi produzido por [Pablo S. Costa][PabloGH] e verificado por Cláu
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com as referências bibliográficas.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
@@ -38,7 +38,7 @@ Abaixo temos os checklists respondidos nas tabelas de 2 a 8 e seus respectivos v
 
 <font size="2"><p style="text-align: center">Tabela 2 - Checklist preenchido na verificação</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
@@ -78,7 +78,7 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{
@@ -116,7 +116,7 @@ pie
 
 <font size="2"><p style="text-align: center">Tabela 3 - Checklist preenchido na verificação</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ A seguir, apresentamos a Figura 2 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 2 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{
@@ -208,7 +208,7 @@ pie
 
 <font size="2"><p style="text-align: center">Tabela 4 - Checklist preenchido na verificação</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
@@ -252,7 +252,7 @@ A seguir, apresentamos a Figura 3 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 3 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{
@@ -290,7 +290,7 @@ pie
 
 <font size="2"><p style="text-align: center">Tabela 5 - Checklist preenchido na verificação</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
@@ -334,7 +334,7 @@ A seguir, apresentamos a Figura 4 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 4 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{
@@ -374,7 +374,7 @@ pie
 
 <font size="2"><p style="text-align: center">Tabela 6 - Checklist preenchido na verificação</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
@@ -418,7 +418,7 @@ A seguir, apresentamos a Figura 5 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 5 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{
@@ -458,7 +458,7 @@ pie
 
 <font size="2"><p style="text-align: center">Tabela 7 - Checklist preenchido na verificação</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência | Print |
 | --- | --- | --- | --- | --- |
@@ -502,7 +502,7 @@ A seguir, apresentamos a Figura 6 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 6 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{
@@ -539,7 +539,7 @@ pie
 
 <font size="2"><p style="text-align: center">Tabela 8 - Checklist preenchido na verificação</p></font>
 
-<center>
+<center markdown="1">
 
 | ID  | Descrição | Avaliação | Referência | Print |
 | :-: | --------- | :-------: | :--------: | :---: |
@@ -586,7 +586,7 @@ A seguir, apresentamos a Figura 7 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 7 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{
@@ -621,7 +621,7 @@ pie
 
 <font size="2"><p style="text-align: center">Tabela 9 - Checklist preenchido na verificação</p></font>
 
-<center>
+<center markdown="1">
 
 | ID  | Descrição | Avaliação | Referência | Print |
 | :-: | --------- | :-------: | :--------: | :---: |
@@ -668,7 +668,7 @@ A seguir, apresentamos a Figura 8 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 8 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{
@@ -704,7 +704,7 @@ A seguir, apresentamos a Figura 9 com o gráfico de pizza do sumário total dos 
 
 <font size="2"><p style="text-align: center">Figura 9 - Gráfico de pizza do sumário total dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{

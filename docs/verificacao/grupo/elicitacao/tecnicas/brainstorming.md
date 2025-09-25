@@ -13,7 +13,7 @@ Este artefato foi verificado por [Gabriel B. Bertolazi][GabrielBGH], e verificad
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência| Print |
 |:--:| --------- | :-------: | :-------: | :-------: |
@@ -36,7 +36,7 @@ Abaixo temos a realização em video e tabela 2 da verificação.
 
 <font size="2"><p style="text-align: center">Tabela 2 - check list preenchido.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Observação |
 | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{

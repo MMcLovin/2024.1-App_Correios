@@ -16,7 +16,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -33,7 +33,7 @@ Aqui será apresentado os resultados do checklist e logo após as observações 
 
 <font size="2"><p style="text-align: center">Tabela 2 - Checklist para História de Usuário - Consultar Documentos</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -56,7 +56,7 @@ Não foram encontrados problemas na História de Usuário "HSU01 - Consultar Doc
 
 <font size="2"><p style="text-align: center">Tabela 3 - Checklist para História de Usuário - Upload de Documentos</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -78,7 +78,7 @@ Não foram encontrados problemas na História de Usuário "HSU02 - Upload de Doc
 
 <font size="2"><p style="text-align: center">Tabela 4 - Checklist para História de Usuário - Editar Informações de Documentos</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -105,7 +105,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Tabela 5 - Checklist para História de Usuário - Acessar Serviços de Saúde.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -126,7 +126,7 @@ Não foram encontrados problemas na História de Usuário "HSU04 - Acessar Servi
 
 <font size="2"><p style="text-align: center">Tabela 5 - Checklist para História de Usuário - Renovação de Documentos</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -148,7 +148,7 @@ Não foram encontrados problemas na História de Usuário "HSU05 - Renovação d
 
 <font size="2"><p style="text-align: center">Tabela 6 - Checklist para História de Usuário - Listar Documentos</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -170,7 +170,7 @@ Não foram encontrados problemas na História de Usuário "HSU06 - Listar Docume
 
 <font size="2"><p style="text-align: center">Tabela 7 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -192,7 +192,7 @@ Não foram encontrados problemas ao verificar o a história de usuário 07.
 
 <font size="2"><p style="text-align: center">Tabela 8 - Checklist para História de Usuário - Cancelar Agendamento.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -213,7 +213,7 @@ Não foram encontrados problemas na História de Usuário "HSU04 - Acessar Servi
 
 <font size="2"><p style="text-align: center">Tabela 9 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -234,7 +234,7 @@ Não foram encontrados problemas ao verificar o a história de usuário 09.
 
 <font size="2"><p style="text-align: center">Tabela 10 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -259,7 +259,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Tabela 11 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -282,7 +282,7 @@ Aqui será apresentado todos os problemas identificados durante o processo de ve
 
 <font size="2"><p style="text-align: center">Tabela 12 - Checklist para História de Usuário - Responder Pesquisas de Satisfação </p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -303,7 +303,7 @@ Não foram encontrados problemas para a [HSU12 - Responder Pesquisas de Satisfa�
 
 <font size="2"><p style="text-align: center">Tabela 13 - Checklist para História de Usuário - Registrar Queixas e Reclamações</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -324,7 +324,7 @@ Não foram encontrados problemas para a [HSU13 - Registrar Queixas e Reclamaçõ
 
 <font size="2"><p style="text-align: center">Tabela 14 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |
@@ -345,7 +345,7 @@ Nenhum porblema foi encontrado na história HSU14
 
 <font size="2"><p style="text-align: center">Tabela 15 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência|
 |:--:| --------- | :-------: | :-------: |

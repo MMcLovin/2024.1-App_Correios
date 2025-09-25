@@ -20,7 +20,7 @@ Gráfico de interdependências entre softgoals é um gráfico que registra as co
 
 <font size="2"><p style="text-align: center">Figura 1 - Tipos de softgoals.</p></font>
 
-<center>
+<center markdown="1">
 
 ![Tipos de softgoals](../../assets/modelagem/agil/nfr/tipos-softgoals.png)
 
@@ -98,7 +98,7 @@ O uso de cartões de especificação oferece uma maneira organizada e concisa de
 
 <font size="2"><p style="text-align: center">**Tabela 1** - Cartão de especificação utilizado para exemplificar os RNFs.</p></font>
 
-<center>
+<center markdown="1">
 
 | **NR Requisito** | Um número sequencial + sua classificação |
 |-|-|
@@ -121,7 +121,7 @@ Para a definiçaõ dos softgoals NFRs utilizados no artefato, foram utilizados o
 
 <font size="2"><p style="text-align: center">**Tabela 2** - Requisitos não funcionais.</p></font>
 
-<center>
+<center markdown="1">
 
 
 | Requisito | Classificação | ID |
@@ -145,7 +145,7 @@ Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos req
 
 <font size="2"><p style="text-align: center">**Tabela 03** - Cartão de Especificação RNF - USA04.</p></font>
 
-<center>
+<center markdown="1">
 
 | **NR Requisito** | RNF01 |
 |-|-|
@@ -164,7 +164,7 @@ Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos req
 
 <font size="2"><p style="text-align: center">**Tabela 04** - RNF - USA08.</p></font>
 
-<center>
+<center markdown="1">
 
 | **NR Requisito** | RNF02 |
 |-|-|
@@ -184,7 +184,7 @@ Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos req
 ### Sem propagação de impactos
 
 <font size="2"><p style="text-align: center">**Figura 05:** NFR Usabilidade Sem propagação de Impactos.</p></font>
-<center>
+<center markdown="1">
   
 ![NFRDesempenho](../../assets/modelagem/agil/nfr/NFR_Usabilidade.png)
 
@@ -194,7 +194,7 @@ Abaixo seguem as tabelas 03 e 04 contendo os cartões de especificação dos req
 ### Com propagação de impactos
 
 <font size="2"><p style="text-align: center">**Figura 06:** NFR Usabilidade com propagação de Impactos.</p></font>
-<center>
+<center markdown="1">
   
 ![NFRDesempenho](../../assets/modelagem/agil/nfr/NFR_Usabilidade_impacto.png)
 
@@ -208,7 +208,7 @@ Nesse tópico, as tabelas 05 e 06 descrevem os cartões de especificação dos r
 
 <font size="2"><p style="text-align: center">**Tabela 05 -** Cartão de especificação do requisito RNF03.</p></font>
 
-<center>
+<center markdown="1">
 
 | **NR Requisito** | RNF03 |
 |-|-|
@@ -229,7 +229,7 @@ Nesse tópico, as tabelas 05 e 06 descrevem os cartões de especificação dos r
 
 <font size="2"><p style="text-align: center">**Tabela 06** - Cartão de especificação do requisito RNF04.</p></font>
 
-<center>
+<center markdown="1">
 
 | **NR Requisito** | RNF04 |
 |-|-|
@@ -250,7 +250,7 @@ Nesse tópico, as tabelas 05 e 06 descrevem os cartões de especificação dos r
 
 <font size="2"><p style="text-align: center">**Figura 07** - SIG de Confiabilidade sem propagação de impactos.</p></font>
 
-<center>
+<center markdown="1">
 
 ![Confiabilidade SIG](../../assets/modelagem/agil/nfr/confiabilidade-sig.png)
 
@@ -262,7 +262,7 @@ Nesse tópico, as tabelas 05 e 06 descrevem os cartões de especificação dos r
 
 <font size="2"><p style="text-align: center">**Figura 08** - SIG de Confiabilidade com propagação de impactos.</p></font>
 
-<center>
+<center markdown="1">
 
 ![Confiabilidade SIG](../../assets/modelagem/agil/nfr/confiabilidade-impacto.png)
 
@@ -277,7 +277,7 @@ Abaixo nas tabelas 07 e 08 encontram-se os cartões de especificação dos requi
 
 <font size="2"><p style="text-align: center">**Tabela 07** - RNF - DS01 .</p></font>
 
-<center>
+<center markdown="1">
 
 | **NR Requisito** | RNF05 |
 |-|-|
@@ -296,7 +296,7 @@ Abaixo nas tabelas 07 e 08 encontram-se os cartões de especificação dos requi
 
 <font size="2"><p style="text-align: center">**Tabela 08** - RNF - DS03 .</p></font>
 
-<center>
+<center markdown="1">
 
 | **NR Requisito** | RNF06 |
 |-|-|
@@ -316,7 +316,7 @@ Abaixo nas tabelas 07 e 08 encontram-se os cartões de especificação dos requi
 ### Sem propagação de impactos
 
 <font size="2"><p style="text-align: center">**Figura 09:** NFR Desempenho Sem propagação de Impactos.</p></font>
-<center>
+<center markdown="1">
   
 ![NFRDesempenho](../../assets/modelagem/agil/nfr/NFR_desempenho.png)
 
@@ -326,7 +326,7 @@ Abaixo nas tabelas 07 e 08 encontram-se os cartões de especificação dos requi
 ### Com propagação de impactos
 
 <font size="2"><p style="text-align: center">**Figura 10:** NFR Desempenho com propagação de Impactos.</p></font>
-<center>
+<center markdown="1">
   
 ![NFRDesempenho](../../assets/modelagem/agil/nfr/Desemopenho_impacto.png)
 
@@ -341,7 +341,7 @@ Nesse tópico, as tabelas 09 e 10 descrevem os cartões de especificação dos r
 
 <font size="2"><p style="text-align: center">**Tabela 09** - Cartão de especificação do requisito RNF07.</p></font>
 
-<center>
+<center markdown="1">
 
 | **NR Requisito** | RNF07 |
 |-|-|
@@ -360,7 +360,7 @@ Nesse tópico, as tabelas 09 e 10 descrevem os cartões de especificação dos r
 
 <font size="2"><p style="text-align: center">**Tabela 10** - Cartão de especificação do requisito RNF08.</p></font>
 
-<center>
+<center markdown="1">
 
 | **NR Requisito** | RNF08 |
 |-|-|
@@ -381,7 +381,7 @@ Nesse tópico, as tabelas 09 e 10 descrevem os cartões de especificação dos r
 
 <font size="2"><p style="text-align: center">Figura 11 - SIG de Suportabilidade sem propagação de impactos.</p></font>
 
-<center>
+<center markdown="1">
 
 ![Confiabilidade SIG](../../assets/modelagem/agil/nfr/suportabilidade-sig.png)
 
@@ -393,7 +393,7 @@ Nesse tópico, as tabelas 09 e 10 descrevem os cartões de especificação dos r
 
 <font size="2"><p style="text-align: center">**Figura 12** - SIG de Suportabilidade com propagação de impactos.</p></font>
 
-<center>
+<center markdown="1">
 
 ![Confiabilidade SIG](../../assets/modelagem/agil/nfr/suportabilidade-impacto.png)
 

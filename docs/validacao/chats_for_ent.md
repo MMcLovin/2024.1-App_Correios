@@ -12,7 +12,7 @@ Neste documento está o protótipo desenvolvido na ferramenta Figma, e também a
 
 <font size="2"><p style="text-align: center">Tabela 1 - Cronograma da Entrevista de Validação.</p></font>
 
-<center>
+<center markdown="1">
 
 |Avaliador|Entrevistado| Horário de Início| Horário de Término| Data| Local|
 |:---:|:----:|:----:|:----:|:----:|:-----:|
@@ -57,7 +57,7 @@ Nessa entrevista foram seguidos os príncipios éticos de pesquisas científicas
 
 <font size="2"><p style="text-align: center">Vídeo 1 - Entrevista de Validação.</p></font>
 
-<center>
+<center markdown="1">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/neFLZUQDaFg?si=lirapuI67urpyqBl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

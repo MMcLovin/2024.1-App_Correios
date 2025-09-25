@@ -23,7 +23,7 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 <font size="2" >
 <p style="text-align: center"> Tabela 1: Informações da reunião. </p>
 </font>
-<center>
+<center markdown="1">
  
 | Data | Início | Fim | Local |
 |:-:|:-:|:-:|:-:|

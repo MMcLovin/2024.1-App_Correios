@@ -14,7 +14,7 @@ Abaixo, nas Tabela 1 e 2, temos respectivamente o checklist elaborado para a ver
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
-<center>
+<center markdown="1">
 
 | ID | Descrição | Avaliação | Referência | Print |
 |:--:| --------- | :-------: | :--------: | :---: |
@@ -30,7 +30,7 @@ Abaixo, nas Tabela 1 e 2, temos respectivamente o checklist elaborado para a ver
 
 ### Gravação da verificação
 
-<center>
+<center markdown="1">
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V-3KWMkG-hI" title="Entrega 5.1 (Verificação grupo + 1) - Verificação do Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -60,7 +60,7 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center>
+<center markdown="1">
 
 ``` mermaid
 %%{
