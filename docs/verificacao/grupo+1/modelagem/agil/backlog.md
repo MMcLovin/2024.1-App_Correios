@@ -34,7 +34,7 @@ Abaixo, na Tabela 1, temos o checklist elaborado para a verificação e já pree
 
 <center markdown="1">
 
-<iframe width="1519" height="542" src="https://www.youtube.com/embed/aCkvHrJoGmA" title="Entrega 5.1 (Verificação grupo + 1) - Verificação do Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aCkvHrJoGmA" title="Entrega 5.1 (Verificação grupo + 1) - Verificação do Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -58,3 +58,11 @@ Não foram encontrados problemas relevantes no backlog, porém, um ponto que nã
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :----: | :--: | --------- | ----------- | ------ |
 | `1.0`  | 09/06/2024 | Criação do documento |[Gabriel F. J. Silva](https://github.com/MMcLovin) | [Danilo Carvalho][DaniloGH] |
+
+[ClaudioGH]: https://github.com/claudiohsc
+[DaniloGH]: https://github.com/Danilo-Carvalho-Antunes
+[EliasGH]: https://github.com/EliasOliver21
+[GabrielBGH]: https://github.com/Bertolazi
+[GabrielFGH]: https://github.com/MMcLovin
+[PabloGH]: https://github.com/pabloheika
+[RicardoGH]: https://www.github.com/avmricardo

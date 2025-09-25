@@ -44,7 +44,7 @@ Para essa categoria os requisitos identificados estão representados na tabela 1
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: Fonte: [Danilo Carvalho Antunes][DaniloGH], 2024.</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Danilo Carvalho Antunes][DaniloGH], 2024.</p></font>
 
 ## Confiabilidade
 

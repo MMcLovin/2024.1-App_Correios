@@ -31,25 +31,25 @@ Abaixo, na tabela 1, está como será a organização do grupo 3 para realizar a
 
 #### Checklists
 
-## Perfil de Usuário
-## Personas
-## Técnicas - Análise documental
-##  Técnicas - Brainstorming
-## Técnicas - Observação
-## Técnicas - Questionário
-## Priorização - $100
-## Priorização - First things first
-## Priorização - In or Out
+##### Perfil de Usuário
+##### Personas
+##### Técnicas - Análise documental
+#####  Técnicas - Brainstorming
+##### Técnicas - Observação
+##### Técnicas - Questionário
+##### Priorização - $100
+##### Priorização - First things first
+##### Priorização - In or Out
 
 <font size="2"><p style="text-align: center">Tabela 1 - Perguntas elaboradas de acordo com os objetivos.</p></font>
 
 
 |ID| Descrição | Avaliação | Referência|
 |:--:|:--:|:--:|:--:|
-|01| A priorização foi feita com a participação de stakeholders?||Software Requirements  [Pg. 318][PG. 318]|
-|02| A priorização foi feita tendo duas opções de escolha (In ou Out)?||Software Requirements  [Pg. 318][PG. 318]|
-|03| Os requisitos priorizados são condizentes?||Software Requirements  [Pg. 318][PG. 318]|
-|04| A priorização foi feita de forma correta?(Os requisitos priorizado possuem realmente uma maior prioridade com relação aos não priorizados)||Software Requirements  [Pg. 318][PG. 318]|
+|01| A priorização foi feita com a participação de stakeholders?||Software Requirements  [Pg. 318](../../../assets/prints_verificacao/elias/in_or_out/318.png)|
+|02| A priorização foi feita tendo duas opções de escolha (In ou Out)?||Software Requirements  [Pg. 318](../../../assets/prints_verificacao/elias/in_or_out/318.png)|
+|03| Os requisitos priorizados são condizentes?||Software Requirements  [Pg. 318](../../../assets/prints_verificacao/elias/in_or_out/318.png)|
+|04| A priorização foi feita de forma correta?(Os requisitos priorizado possuem realmente uma maior prioridade com relação aos não priorizados)||Software Requirements  [Pg. 318](../../../assets/prints_verificacao/elias/in_or_out/318.png)|
 
 <font size="2"><p style="text-align: center">Fonte: [Elias F. Oliveira](https://github.com/EliasOliver21), 2024.</p></font>
 

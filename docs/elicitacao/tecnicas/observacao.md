@@ -53,7 +53,7 @@ Legenda:
 
 ### Requisitos Funcionais (RF)
 
-<center>
+<center markdown="1">
 <font size="2"><p>
     <b>Tabela 2</b> - Requisitos Funcionais 
 </p></font>

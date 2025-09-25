@@ -63,7 +63,7 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
 
 <font size="2"><p style="text-align: center">Figura 1 - Gráfico de pizza do sumário dos resultados.</p></font>
 
-<center markdown="1">
+<center>
 
 ``` mermaid
 %%{
@@ -84,7 +84,10 @@ A seguir, apresentamos a Figura 1 com o gráfico de pizza do sumário dos result
   }
 }%%
 pie
-    "Sim" : 07
+    "Sim" : 7
+    "Não" : 0
+    "Incompleto" : 0
+    "Não se Aplica" : 0
 ```
 
 </center>

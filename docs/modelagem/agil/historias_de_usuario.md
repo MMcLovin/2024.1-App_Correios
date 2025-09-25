@@ -10,7 +10,7 @@ Para desenvolver as histórias de usuário, iniciamos com a elicitação de requ
 
 <font size="2"><p style="text-align: center">Tabela 1 - Modelo de uma história de usuário.</p></font>
 
-<center class="table_his_usuario">
+<center class="table_his_usuario" markdown="1">
 
 | ID | Título | História de Usuário | Critério de aceitação | Prioridade | Rastreabilidade | Épico |
 | :--: | ---- | ---- | ---- | :----: | :---: | :---: | 
@@ -26,7 +26,7 @@ Na tabela 2, as histórias de usuários são apresentadas juntamente com suas ca
 
 <font size="2"><p style="text-align: center">Tabela 2 - Histórias de Usuário elaboradas.</p></font>
 
-<center class="table_his_usuario">
+<center class="table_his_usuario" markdown="1">
 
 | ID | Título | Histórias de Usuário | Critério de aceitação | Prioridade | Rastreabilidade | Épico |
 | :---: | --- | --- | --- | :---: | :---: | :---: |

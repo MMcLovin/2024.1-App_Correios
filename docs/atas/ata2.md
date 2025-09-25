@@ -55,11 +55,10 @@ Artefato destinado a documentação das reuniões realizadas pelo grupo ao longo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TfYoQKv9ko4?si=AY7PYxgfc6x9Lfem" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Histórico de Versão
-
-| Versão | Data | Autor | Descrição | Revisor
-|:-:|:-:|:-:|:-:|:-:|
-|`1.0`| 10 / 04 / 2024 | [Ricardo Augusto][RicardoGH] | Criação do documento | [Claudio Henrique](https://github.com/claudiohsc)
-| `1.1`  | 08/07/2024 | Padroniza nome dos membros | [Gabriel F. J. Silva][GabrielFGH] | [Danilo Carvalho][DaniloGH]  |
+| Versão | Data        | Autor | Descrição                        | Revisor                                   |
+| :----: | :---------- | :---: | :------------------------------: | :---------------------------------------: |
+| 1.0    | 10/04/2024  | [Ricardo Augusto][RicardoGH]      | Criação do documento | [Cláudio Henrique][ClaudioGH]              |
+| 1.1    | 08/07/2024  | [Gabriel F. J. Silva][GabrielFGH] | Padronização dos nomes dos membros| [Danilo Carvalho][DaniloGH]   |
 
 
 

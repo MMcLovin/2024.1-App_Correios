@@ -224,7 +224,9 @@ Abaixo temos a realização em video e tabela 7 da verificação.
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://github.com/pabloheika), 2024.</p></font>
 
+<center markdown="1">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O1t62XdtbFs?si=kvsUhfPEOm_qm7bW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ## Problemas Encontrados
 

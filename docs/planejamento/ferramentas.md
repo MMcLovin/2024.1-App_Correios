@@ -24,7 +24,7 @@ Para a apresentação das ferramentas, que serão utilizadas no decorrer do dese
 
 <font size="2"><p style="text-align: center"><b>Tabela 2</b> - Ferramentas Utilizadas no Projeto</p></font> 
 
-<center class="img_ferramentas">
+<center class="img_ferramentas" markdown="1">
 
 |Logo|Ferramenta|Finalidade|
 | :-: | - | - |

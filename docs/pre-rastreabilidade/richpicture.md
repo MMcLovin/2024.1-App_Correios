@@ -11,14 +11,17 @@ O Rich Picture é uma forma visual e informal para expressar ideias e analisar p
 
 ![Richpicture](../assets/richpicture/Correios-RichPicture.png)
 
-<font size="2"><p style="text-align: center">Fonte: Claudio Henrique, 2024.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 <font size="2"><p style="text-align: center">Figura 2: Legenda Rich Picture versão 1.</p></font>
-<center markdown="1">
 
-![LegendaRichpicturev1](../assets/richpicture/legenda-rich-picture-correios.png)
+<center markdown="1" class="img">
+
+![LegendaRichpicturev1](../assets/richpicture/legenda-rich-picture-correios.png){img}
+
 </center>
-<font size="2"><p style="text-align: center">Fonte: Claudio Henrique, 2024.</p></font>
+
+<font size="2"><p style="text-align: center">Fonte: [Claudio Henrique](https://github.com/claudiohsc), 2024.</p></font>
 
 ## Bibliografia
 

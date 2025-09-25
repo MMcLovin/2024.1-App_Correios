@@ -2,9 +2,9 @@
 
 <font size="2"><p style="text-align: center">Figura 1: Logo dos Correios. </p></font>
 
-<div class="logo_correios">
-  <img src="assets/correios-logo.png" alt="logo_correios">
-</div>
+<center markdown="1">
+![logo dos Correios](assets/correios-logo.png){ .logo }
+</center>
 
 <font size="2"><p style="text-align: center"> Fonte: <a href="https://www.correios.com.br/acesso-a-informacao/institucional/identidade-corporativa">Correios Identidade Corporativa</a>, 2019. </p></font>
 
@@ -29,11 +29,11 @@ Esta página possui o objetivo de armazenar a documentação dos artefatos estud
 
 ## Histórico de versões
 
-Versão |   Data  | Descrição | Autor(es) | Revisor(es)
------- | ---- | ------ | ---------- | ----------
-`1.0` | 26/03/2024 | Criação da GitHub pages | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo
-`1.1` | 28/03/2024 | Adicionando mais um integrante | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo
-`1.2` | 30/03/2024 | Correção das informações do site | [Claudio Henrique](https://github.com/claudiohsc) | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo
-`2.0` | 09/04/2024 | Alterando aplicativo escolhido | [Ricardo Augusto](https://www.github.com/avmricardo) | [Pablo S. Costa](https://www.github.com/pabloheika)
+| Versão |   Data  | Descrição | Autor(es) | Revisor(es)
+| ------ | ---- | ------ | ---------- | ----------
+| `1.0` | 26/03/2024 | Criação da GitHub pages | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Cláudio Henrique](https://github.com/claudiohsc), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [Elias Faria](https://github.com/EliasOliver21), [Gabriel B. Bertolazi](https://github.com/Bertolazi), [Gabriel F. J. Silva](https://github.com/MMcLovin), [Pablo Santos Costa](https://github.com/pabloheika), [Ricardo Augusto](https://github.com/avmricardo)
+| `1.1` | 28/03/2024 | Adicionando mais um integrante | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) | [Cláudio Henrique](https://github.com/claudiohsc), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [Elias Faria](https://github.com/EliasOliver21), [Gabriel B. Bertolazi](https://github.com/Bertolazi), [Gabriel F. J. Silva](https://github.com/MMcLovin), [Pablo Santos Costa](https://github.com/pabloheika), [Ricardo Augusto](https://github.com/avmricardo)
+| `1.2` | 30/03/2024 | Correção das informações do site | [Cláudio Henrique](https://github.com/claudiohsc) | [Cláudio Henrique](https://github.com/claudiohsc), [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes), [Elias Faria](https://github.com/EliasOliver21), [Gabriel B. Bertolazi](https://github.com/Bertolazi), [Gabriel F. J. Silva](https://github.com/MMcLovin), [Pablo Santos Costa](https://github.com/pabloheika), [Ricardo Augusto](https://github.com/avmricardo)
+| `2.0` | 09/04/2024 | Alterando aplicativo escolhido | [Ricardo Augusto](https://github.com/avmricardo) | [Pablo Santos Costa](https://github.com/pabloheika)
 
 

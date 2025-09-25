@@ -12,7 +12,7 @@ Tendo como base os [Requisitos Elicitados](../elicitacao/requisitos_elicitados.m
 |:------:|:-------------:|:-----:|:-------:|:--------:|:-----:|
 |LXX - Nome. |Objeto, Verbo, Estado.|Significado do símbolo.|Efeito, uso ou ocorrência na aplicação.|Termo similar.|Integrante responsável pelo léxico.|
 
-<center markdown="1">**Fonte**:  [Elias Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc), 2024. </center>
+<font size="3"><p style="text-align: center">**Fonte**:  [Elias Oliveira](https://github.com/EliasOliver21) e [Claudio Henrique](https://github.com/claudiohsc), 2024. </p></font>
 
 
 
@@ -37,7 +37,7 @@ Nos léxicos do tipo Objeto é definido: o objeto, outros objetos com os quais s
 
 
 
-<center markdown="1">**Fonte**: Autores, 2024. </center>
+<font size="3"><p style="text-align: center">**Fonte**: Autores, 2024. </p></font>
 
 ## Verbo
 
@@ -55,7 +55,7 @@ Nos léxicos do tipo Verbo, se referem às ações que os usuários podem fazer 
 |<a id="taxar">**L16 - Taxar**</a> | Verbo | Ato de fazer a cobrança de um imposto, multa ou outros tributos monetários. | Possibilita o usuário implementar cobranças devidas de tributos e taxas aplicáveis às <a href="#encomenda">encomendas</a>.  | Tributar, Tarifar. |[Pablo Santos](https://github.com/pabloheika) |
 |<a id="rastrear">**L17 - Rastrear**</a> | Verbo | O usuário pode consultar o status da entrega da <a href="#encomenda">encomenda</a> em tempo real, verificando sua localização, histórico de movimentações e eventuais problemas na entrega. | Permite ao usuário acompanhar o andamento da entrega, ter previsões de entrega e se preparar para recebê-la. | Acompanhar. |[Ricardo Augusto](https://github.com/avmricardo) |
 
-<center markdown="1">**Fonte**: Autores, 2024. </center>
+<font size="3"><p style="text-align: center">**Fonte**: Autores, 2024. </p></font>
 
 
 ## Estado
@@ -75,7 +75,7 @@ Os léxicos do tipo Estado se referem às condições ou situações específica
 | <a id="transito">**L24 - Em Trânsito**</a> | Estado | A <a href="#encomenda">encomenda</a> está se movimentando entre os Correios e ainda não chegou ao destinatário. | Indica que a entrega da <a href="#encomenda">encomenda</a> está em andamento e que o usuário pode acompanhar seu status através do código de rastreio. | Em transporte |[Ricardo Augusto](https://github.com/avmricardo) |
 | **L25 - Entregue** | Estado | A <a href="#encomenda">encomenda</a> foi entregue ao destinatário e a entrega está finalizada. | Indica que o destinatário já recebeu a <a href="#encomenda">encomenda</a> e que o processo de entrega foi concluído com sucesso. | Objeto entregue ao destinatário |[Ricardo Augusto](https://github.com/avmricardo) |
 
-<center markdown="1">**Fonte**: Autores, 2024. </center>
+<font size="3"><p style="text-align: center">**Fonte**: Autores, 2024. </p></font>
 
 
 

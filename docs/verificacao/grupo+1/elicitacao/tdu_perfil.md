@@ -4,8 +4,6 @@
 A verificação é uma das etapas mais importantes do desenvolvimento de um projeto. Nela os artefatos produzidos são analisados garantindo que os mesmos cumpram com os seus requisitos especificados. Sendo assim, este documento apresenta o planejamento da verificação do artefatos do [Termo de Consentimento das Perfil do Usuario](https://github.com/Requisitos-de-Software/2024.1-Gov.br/blob/main/docs/perfil_usuario/TCLE_pesquisa.md).
 
 
-https://github.com/Requisitos-de-Software/2024.1-Gov.br/blob/main/docs/elicitacao/termo_de_consentimento.md
-
 ## Objetivo
 O objetivo deste documento é verificar se o artefato produzido [Grupo 4](https://github.com/Requisitos-de-Software/2023.1-Booking) possuem os itens e o padrão exigidos para tais.
 

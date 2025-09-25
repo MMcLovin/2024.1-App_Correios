@@ -232,7 +232,9 @@ Abaixo estão os problemas encontrados com base no checklist de verificação ap
 
 <font size="2"><p style="text-align: center">Fonte: [Pablo S. Costa](https://www.github.com/pabloheika).</p></font>
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FSxtezjgtMg?si=KEfJKPoek8sCma73" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ### Problemas Encontrados
 

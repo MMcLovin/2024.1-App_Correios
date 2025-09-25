@@ -108,9 +108,9 @@ Requisito | Descrição | Implementado | Cenário | Léxico | Caso de Uso | Tema
 | REQ59 | O aplicativo deve oferecer uma seção de informações sobre serviços e produtos | Não | - | [LX-01][LX], [LX-14][LX], [LX-20][LX], [LX-21][LX], [LX-07][LX] | - | [TM-05][TM] | [EP-10][EP] | [US-16][US] | [Usabilidade][NFR] |
 | REQ60 | O aplicativo deve oferecer uma seção de perguntas frequentes (FAQ) | Não | - | [LX-01][LX], [LX-14][LX], [LX-20][LX], [LX-21][LX], [LX-07][LX] | - | [TM-07][TM] | [EP-08][EP] | [US-13][US] | [Usabilidade][NFR] |
 | REQ61 | O usuário deve ser capaz de rastrear seus pacotes em tempo real | Não | - | [LX-01][LX], [LX-03][LX], [LX-14][LX], [LX-24][LX] | - | [TM-01][TM] | [EP-02][EP] | [US-03][US] | [Usabilidade][NFR] |
-| REQ63 | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única. | Não | [CN-06][CN] | - | - | [TM-07][TM] | [EP-12][EP] | [US-21][US] | [Usabilidade] |
-| REQ64 | O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | Não | - | [LX-01][LX], [LX-10][LX] | - | [TM-07][TM] | [EP-12][EP] | [US-20][US] | [Usabilidade] |
-| REQ65 | O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anseios, como: menor preço, maior preço, maior relevância ou menor. | Não | [CN-02][CN] | - | - | [TM-07][TM] | [EP-12][EP] | [US-20][US] | [Usabilidade] |
+| REQ63 | A busca por itens deve ser o mais otimizada possível, com o usuário tendo a opção de filtragem para simplificar e diminuir o tempo de busca por produtos que antes se apresentariam em uma categoria única. | Não | [CN-06][CN] | - | - | [TM-07][TM] | [EP-12][EP] | [US-21][US] | [Usabilidade][NFR] |
+| REQ64 | O usuário deve poder ter a total liberdade de editar suas informações e transitar pelas etapas que o sistema oferece. | Não | - | [LX-01][LX], [LX-10][LX] | - | [TM-07][TM] | [EP-12][EP] | [US-20][US] | [Usabilidade][NFR] |
+| REQ65 | O usuário deverá possuir uma opção para ordenar os itens de acordo com seus anseios, como: menor preço, maior preço, maior relevância ou menor. | Não | [CN-02][CN] | - | - | [TM-07][TM] | [EP-12][EP] | [US-20][US] | [Usabilidade][NFR] |
 
 </center>
 <font size="2"><p style="text-align: center"> Fonte: [Elias Oliveira](https://github.com/EliasOliver21) e [Gabriel .B][GabrielBGH], 2024.</p></font>
@@ -126,42 +126,40 @@ Na tabela 02 abaixo temos os requisitos não-funcionais elicitados e suas relaç
 
 | Requisito | Descrição | Implementado | Cenário | Léxico | Caso de Uso | Tema | Épico | História de Usuário | NFR Framework |
 |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
-| REQ37 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | Não | | | | [TM-04][TM]| | |[NFR- Desempenho][NFR] |
-| REQ38 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | Não |[CN-05][CN] | |[CSU-6][CSO] |[TM-01][TM] |[EP-01][EP] | [US-02][HU]| [NFR- Desempenho][NFR]|
-| REQ39 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código | Sim | [CN-05][CN] | [L-08][LX] | [CSO-06][CSO]| [TM-01][TM] | [EP-02][EP] | [US-01][HU] | [NFR- Desempenho][NFR] |
-| REQ40 | O app deve identificar encomendas através de um e-mail enviado em até 5 segundos após a solicitação do usuário | Não |[CN-05][CN]| |[CSU-6][CSO] |[TM-01][TM] | | | [NFR- Desempenho][NFR]|
-| REQ41 | O app deve mostrar informações na Home com um layout que possua no máximo 3 elementos principais por seção e texto legível (tamanho mínimo de 14pt) | Não | | | | | | | [NFR- Desempenho][NFR]|
-| REQ42 | O app deve enviar informações de rastreio por email dentro de 1 minuto após qualquer atualização no status da entrega | Não |[CN-05][CN] | | [CSU-6][CSO]|[TM-03][TM] |[EP-07][EP] | [US-12][HU]|[NFR- Desempenho][NFR] |
-| REQ43 | O app deve gerar um código de rastreio único e simples, composto por no máximo 10 caracteres alfanuméricos | Não |[CN-05][CN] | [L-08][LX] |[CSU-6][CSO] |[TM-01][TM] | | | [NFR- Desempenho][NFR]|
-| REQ44 | O app deve possuir um sistema de chatbot com tempo de resposta inicial de no máximo 3 segundos e deve permitir redirecionamento a um atendente humano em no máximo 2 minutos | Não | | | |[TM-04][TM] |[EP-08][EP] | [US-13][HU]|[NFR- Suportabilidade][NFR] |
-| REQ45 | O app deve ter uma tela de ajuda acessível a partir de qualquer tela em no máximo 2 cliques e um pop-up "Precisa de ajuda?" visível em todas as telas principais | Não | | | | [TM-04][TM]|[EP-09][EP] | |[NFR- Suportabilidade][NFR] |
-| REQ46 | O app deve possuir tutoriaiREQerativos com duração máxima de 3 minutos cada e/ou informações claras sobre como rastrear uma encomenda, acessíveis em no máximo 2 cliques | Não |[CN-05][CN] | | |[TM-04][TM] |[EP-08][EP] | [US-15][HU]| [NFR- Suportabilidade][NFR] |
-| REQ47 | O app deve ter um delay nas notificações de entrega não superior a 10 segundos após qualquer atualização de status | Não | | | | [TM-03][TM]| | | [NFR- Desempenho][NFR]|
-| REQ48 | O app deve estar em conformidade com as diretrizes WCAG 2.1, nível AA, para acessibilidade | Não | | | | [TM-04][TM]| | |[NFR- Suportabilidade][NFR] |
-| REQ49 | O app deve ter uma interface com tempo de resposta para qualquer interação do usuário não superior a 2 segundos e uma taxa de falha de operação inferior a 1% | Sim | | | | | | | [NFR- Desempenho][NFR]|
-| REQ50 | O aplicativo deve criptografar todos os dados do usuário durante o armazenamento e transmissão | Sim | | | | | | | [NFR- Confiabilidade][NFR]|
-| REQ51 | O sistema de rastreamento de encomendas deve retornar o status da encomenda em menos de 5 segundos para 95% das consultas | Sim | [CN-05][CN]| [L-017][LX] |[CSU-6][CSO] |[TM-01][TM] | | | [NFR- Desempenho][NFR]|
-| REQ52 | O sistema de envio de encomendas deve suportar o envio de objetos com pesos de 1 grama até 50 quilogramas e dimensões de até 200x200x200 cm | Sim | | [L-13][LX] | |[TM-02][TM] | | |[NFR- Desempenho][NFR] |
-| REQ53 | O acesso aos pagamentos deve exigir autenticação do usuário utilizando um método de autenticação de dois fatores | Não | | | | |[EP-10][EP]| | [NFR- Confiabilidade][NFR]|
-| REQ54 | A busca por agências deve retornar resultados baseados na localização do usuário com um raio de precisão de 200 metros | Sim | | | | |[EP-12][EP] |[US-19][HU] | [NFR- Desempenho][NFR]|
-| REQ55 | O cálculo de preços e prazos de encomendas deve ser concluído em menos de 10 segundos para 95% das consultas | Sim | | [L-11][LX]|[CSU-01][CSO] | |[EP-03][EP] | [US-05][HU]|[NFR- Desempenho][NFR] |
-| REQ56 | A compra de certificados digitais deve utilizar protocolos HTTPS para todas as transações | Sim | | | | | | | [NFR- Confiabilidade][NFR]|
-| REQ57 | O acompanhamento da conta e recargas deve utilizar autenticação segura e confirmar a operação com um código enviado por SMS ou email | Sim | | | | |[EP-17][EP]| |[NFR- Confiabilidade][NFR] |
-| REQ58 | A interface de visualização de mensagens deve carregar em menos de 5 segundos para 95% das operações | Sim | | | | | | | [NFR- Desempenho][NFR]|
-| REQ59 | A visualização de vales postais deve ser acessível apenas após autenticação do usuário com senha e um método adicional de autenticação | Sim | | | | | | | [NFR- Confiabilidade][NFR]|
-| REQ60 | A busca por objetos perdidos deve retornar resultados em menos de 5 segundos para 95% das consultas | Sim |[CN-06][CN] |  [L-02][LX]|[CSU-07][CSO] | | |[US-21][HU] | [NFR- Desempenho][NFR]|
-| REQ61 | A área de contato sobre violência contra a mulher deve ter opção de chat ao vivo com tempo de resposta de menos de 10 minutos durante o horário de atendimento | Sim | | | | |[EP-08][EP]|[US-22][HU] |[NFR- Desempenho][NFR] e [NFR- Suportabilidade][NFR]|
-| REQ62 | O aplicativo deve possuir uma interface que permita a navegação entre diferentes seções com no máximo 5 cliques a partir da tela inicial | Sim | | | | | | | [NFR- Desempenho][NFR]|
-| REQ63 | O aplicativo deve ser compatível com Android versão 8.0 ou superior e iOS versão 13.0 ou superior | Sim | | | | | | | [NFR- Desempenho][NFR]|
-| REQ64 | O aplicativo deve enviar notificações sobre o status da entrega via push notifications dentro de 30 minutos após a atualização do status | Sim | | | |[TM-03][TM] |[EP-07][EP] |[US-03][HU] | [NFR- Desempenho][NFR]|
-| REQ65 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) | Sim | | | | | | | [NFR- Desempenho][NFR]|
-| REQ66 | O aplicativo deve notificar o usuário com eficácia (deve haver um sistema de redundância, para que a mesma notificação seja enviada por diferentes meios - SMS, email, Whatsapp e notificação pelo aplicativo -, de acordo com a preferência do usuário) | Não | | | |[TM-03][TM] |[EP-07][EP] |[US-11][HU] e [US-12][HU] | [NFR- Desempenho][NFR]|
-| REQ67 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | Sim | [CN-05][CN]| |[CSU-06][CSO]|[TM-01][TM] | [EP-01][EP]| | [NFR- Desempenho][NFR]|
-| REQ68 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | Não | | | | | | | |
-| REQ69 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | Não | | [L-17][LX]|[CSU-06][CSO]|[TM-01][TM] | | |[NFR- Desempenho][NFR] |
-| REQ70 | O chat com o entregador deve ser confiável (deve atender às especificações de segurança do [Art. 46](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#referencias-bibliograficas) da LGPD) | Não | | | |[TM-07][TM] |[EP-08][EP] | [US-13][HU]|[NFR- Confiabilidade][NFR] |
-
-
+| REQ37 | O app deve bloquear todas as funções dentro de 5 minutos após ser reportado como furtado/roubado | Não | - | - | - | [TM-04][TM] | - | - | [NFR- Desempenho][NFR] |
+| REQ38 | O app deve mostrar a localização da entrega com atualização em tempo real, com um atraso máximo de 10 segundos | Não | [CN-05][CN] | - | [CSU-6][CSO] | [TM-01][TM] | [EP-01][EP] | [US-02][HU] | [NFR- Desempenho][NFR]|
+| REQ39 | O app deve identificar encomendas através de QR Code em menos de 2 segundos após a leitura do código | Sim | [CN-05][CN] | [L-08][LX] | [CSO-06][CSO] | [TM-01][TM] | [EP-02][EP] | [US-01][HU] | [NFR- Desempenho][NFR] |
+| REQ40 | O app deve identificar encomendas através de um e-mail enviado em até 5 segundos após a solicitação do usuário | Não | [CN-05][CN] | - | [CSU-6][CSO] | [TM-01][TM] | - | - | [NFR- Desempenho][NFR]|
+| REQ41 | O app deve mostrar informações na Home com um layout que possua no máximo 3 elementos principais por seção e texto legível (tamanho mínimo de 14pt) | Não | - | - | - | - | - | - | [NFR- Desempenho][NFR]|
+| REQ42 | O app deve enviar informações de rastreio por email dentro de 1 minuto após qualquer atualização no status da entrega | Não | [CN-05][CN] | - | [CSU-6][CSO] | [TM-03][TM] | [EP-07][EP] | [US-12][HU] | [NFR- Desempenho][NFR] |
+| REQ43 | O app deve gerar um código de rastreio único e simples, composto por no máximo 10 caracteres alfanuméricos | Não | [CN-05][CN] | [L-08][LX] | [CSU-6][CSO] | [TM-01][TM] | - | - | [NFR- Desempenho][NFR]|
+| REQ44 | O app deve possuir um sistema de chatbot com tempo de resposta inicial de no máximo 3 segundos e deve permitir redirecionamento a um atendente humano em no máximo 2 minutos | Não | - | - | - | [TM-04][TM] | [EP-08][EP] | [US-13][HU] | [NFR- Suportabilidade][NFR] |
+| REQ45 | O app deve ter uma tela de ajuda acessível a partir de qualquer tela em no máximo 2 cliques e um pop-up "Precisa de ajuda?" visível em todas as telas principais | Não | - | - | - | [TM-04][TM] | [EP-09][EP] | - | [NFR- Suportabilidade][NFR] |
+| REQ46 | O app deve possuir tutoriaiREQerativos com duração máxima de 3 minutos cada e/ou informações claras sobre como rastrear uma encomenda, acessíveis em no máximo 2 cliques | Não | [CN-05][CN] | - | - | [TM-04][TM] | [EP-08][EP] | [US-15][HU] | [NFR- Suportabilidade][NFR] |
+| REQ47 | O app deve ter um delay nas notificações de entrega não superior a 10 segundos após qualquer atualização de status | Não | - | - | - | [TM-03][TM] | - | - | [NFR- Desempenho][NFR]|
+| REQ48 | O app deve estar em conformidade com as diretrizes WCAG 2.1, nível AA, para acessibilidade | Não | - | - | - | [TM-04][TM] | - | - | [NFR- Suportabilidade][NFR] |
+| REQ49 | O app deve ter uma interface com tempo de resposta para qualquer interação do usuário não superior a 2 segundos e uma taxa de falha de operação inferior a 1% | Sim | - | - | - | - | - | - | [NFR- Desempenho][NFR]|
+| REQ50 | O aplicativo deve criptografar todos os dados do usuário durante o armazenamento e transmissão | Sim | - | - | - | - | - | - | [NFR- Confiabilidade][NFR]|
+| REQ51 | O sistema de rastreamento de encomendas deve retornar o status da encomenda em menos de 5 segundos para 95% das consultas | Sim | [CN-05][CN] | [L-017][LX] | [CSU-6][CSO] | [TM-01][TM] | - | - | [NFR- Desempenho][NFR]|
+| REQ52 | O sistema de envio de encomendas deve suportar o envio de objetos com pesos de 1 grama até 50 quilogramas e dimensões de até 200x200x200 cm | Sim | - | [L-13][LX] | - | [TM-02][TM] | - | - | [NFR- Desempenho][NFR] |
+| REQ53 | O acesso aos pagamentos deve exigir autenticação do usuário utilizando um método de autenticação de dois fatores | Não | - | - | - | - | [EP-10][EP] | - | [NFR- Confiabilidade][NFR]|
+| REQ54 | A busca por agências deve retornar resultados baseados na localização do usuário com um raio de precisão de 200 metros | Sim | - | - | - | - | [EP-12][EP] | [US-19][HU] | [NFR- Desempenho][NFR]|
+| REQ55 | O cálculo de preços e prazos de encomendas deve ser concluído em menos de 10 segundos para 95% das consultas | Sim | - | [L-11][LX] | [CSU-01][CSO] | - | [EP-03][EP] | [US-05][HU] | [NFR- Desempenho][NFR] |
+| REQ56 | A compra de certificados digitais deve utilizar protocolos HTTPS para todas as transações | Sim | - | - | - | - | - | - | [NFR- Confiabilidade][NFR]|
+| REQ57 | O acompanhamento da conta e recargas deve utilizar autenticação segura e confirmar a operação com um código enviado por SMS ou email | Sim | - | - | - | - | [EP-17][EP] | - | [NFR- Confiabilidade][NFR] |
+| REQ58 | A interface de visualização de mensagens deve carregar em menos de 5 segundos para 95% das operações | Sim | - | - | - | - | - | - | [NFR- Desempenho][NFR]|
+| REQ59 | A visualização de vales postais deve ser acessível apenas após autenticação do usuário com senha e um método adicional de autenticação | Sim | - | - | - | - | - | - | [NFR- Confiabilidade][NFR]|
+| REQ60 | A busca por objetos perdidos deve retornar resultados em menos de 5 segundos para 95% das consultas | Sim | [CN-06][CN] | [L-02][LX] | [CSU-07][CSO] | - | - | [US-21][HU] | [NFR- Desempenho][NFR]|
+| REQ61 | A área de contato sobre violência contra a mulher deve ter opção de chat ao vivo com tempo de resposta de menos de 10 minutos durante o horário de atendimento | Sim | - | - | - | - | [EP-08][EP] | [US-22][HU] | [NFR- Desempenho][NFR] e [NFR- Suportabilidade][NFR]|
+| REQ62 | O aplicativo deve possuir uma interface que permita a navegação entre diferentes seções com no máximo 5 cliques a partir da tela inicial | Sim | - | - | - | - | - | - | [NFR- Desempenho][NFR]|
+| REQ63 | O aplicativo deve ser compatível com Android versão 8.0 ou superior e iOS versão 13.0 ou superior | Sim | - | - | - | - | - | - | [NFR- Desempenho][NFR]|
+| REQ64 | O aplicativo deve enviar notificações sobre o status da entrega via push notifications dentro de 30 minutos após a atualização do status | Sim | - | - | - | [TM-03][TM] | [EP-07][EP] | [US-03][HU] | [NFR- Desempenho][NFR]|
+| REQ65 | A opção de filtrar encomendas deve ser de fácil acesso (até 2 frames de ajuda a partir da página de encomendas) | Sim | - | - | - | - | - | - | [NFR- Desempenho][NFR]|
+| REQ66 | O aplicativo deve notificar o usuário com eficácia (deve haver um sistema de redundância, para que a mesma notificação seja enviada por diferentes meios - SMS, email, Whatsapp e notificação pelo aplicativo -, de acordo com a preferência do usuário) | Não | - | - | - | [TM-03][TM] | [EP-07][EP] | [US-11][HU] e [US-12][HU] | [NFR- Desempenho][NFR]|
+| REQ67 | As informações sobre o rastreio de encomendas devem ser precisas (fornecem data, hora e local em cada atualização da encomenda) | Sim | [CN-05][CN] | - | [CSU-06][CSO] | [TM-01][TM] | [EP-01][EP] | - | [NFR- Desempenho][NFR]|
+| REQ68 | O usuário deve estar satisfeito com a aplicação (Caso seja solicitado, mais de 70% dos usuários devem atribuir uma nota igual ou maior que 3 - em uma escala de 1 a 5 - ao recomendar o aplicativo dos Correios a um amigo) | Não | - | - | - | - | - | - | - |
+| REQ69 | A opção de rastrear encomendas deve ser de fácil acesso (deve estar na página principal e o usuário não deve demorar mais de 2 minutos para achá-la) | Não | - | [L-17][LX] | [CSU-06][CSO] | [TM-01][TM] | - | - | [NFR- Desempenho][NFR] |
+| REQ70 | O chat com o entregador deve ser confiável (deve atender às especificações de segurança do [Art. 46](https://mmclovin.github.io/2024.1-App_Correios/elicitacao/tecnicas/questionario/#referencias-bibliograficas) da LGPD) | Não | - | - | - | [TM-07][TM] | [EP-08][EP] | [US-13][HU] | [NFR- Confiabilidade][NFR] |
 
 </Center>
 
@@ -175,42 +173,42 @@ Na tabela 03 abaixo são apresentadas as relações entre os requisitos definido
 
 |ELO| Requisito | Satisfação | Recurso |Representação| Alocado | Agregação |
 |:----:| :----: | :----: | :----: | :----: | :----: | :----: |
-| ELO01 | O usuário deve poder realizar cadastro pelo app | Sim | [US-17][US] | | | | |
-| ELO02 | O usuário deve poder realizar login pelo app | Sim |[US-17][US]  | | | | |
-| ELO03 | O usuário deve poder acessar o histórico de notificações do objeto | Não | | | | | |
-| ELO04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo | Não | | | | | |
-| ELO05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda | Não | | | | | |
-| ELO06 | O usuário deve visualizar a estipulação de prazo de entrega | Sim |[US-05][US] | | | | |
-| ELO07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações | Não | | | | | |
-| ELO08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda | Não | | | | | |
-| ELO09 | O usuário deve receber notificações push pelo aplicativo | Sim |[US-17][US]| | | | |
-| ELO10 | O usuário deve receber notificações SMS | Sim |[TM-03][TM] | | | | |
-| ELO11 | O usuário deve receber notificações pelo Whatsapp | Não | | | | | |
-| ELO12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente | Não | | | | | |
-| ELO13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento | Não | | | | | |
-| ELO14 | O usuário deve poder receber o status da encomenda pelo WhatsApp | Não | | | | | |
-| ELO15 | O usuário deve poder aumentar e diminuir a fonte | Não | | | | | |
-| ELO16 | O usuário deve ter a opção de falar com um atendente para obter ajuda | Não | | | | | |
-| ELO17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) | Não | | | | | |
-| ELO18 | O usuário deve poder visualizar sua encomenda no mapa | Não | | | | | |
-| ELO19 | O usuário deve poder visualizar detalhes da situação do produto | Sim |[TM-03][TM] | | | | |
-| ELO20 | O usuário deve poder realizar o rastreio por código mais simples | Não | | | | | |
-| ELO21 | O usuário deve poder realizar o rastreio por QR Code | Sim |[CSO-05][CSO] e [CSO-06][CSO]  | | | | |
-| ELO22 | O usuário deve receber notificação pelo e-mail | Não | | | | | |
-| ELO23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo | Não | | | | | |
-| ELO24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | Sim |[US-05][US] | | | | |
-| ELO25 | O aplicativo permite realizar login com sua conta | Sim |[US-05][US]| | | | |
-| ELO26 | O aplicativo permite rastreamento de encomendas por código. | Sim | [US-01][US]| | | | |
-| ELO27 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | Sim |[CN-03][CN] | | | | |
-| ELO28 | O aplicativo possibilite ver seus pagamentos | Sim |[CSO-02][CSO] | | | | |
-| ELO29 | O aplicativo oferece uma busca por agências próximas ao seu endereço | Sim |[US-19][US] | | | | |
-| ELO30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e Eloernacionais | Sim | | | | | |
-| ELO31 | O aplicativo possibilita a compra de certificados digitais dos correios | Sim | | | | | |
-| ELO32 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | Sim | | | | | |
-| ELO33 | O aplicativo permite visualização de mensagens | Sim | | | | | |
-| ELO34 | O aplicativo oferece a visualização de vales postais | Sim | | | | | |
-| ELO35 | O aplicativo oferece uma área de busca por objetos perdidos em envios | Sim | | | | | |
-| ELO36 | O aplicativo fornece uma área de contato sobre violência contra a mulher | Sim | | | | | |
+| ELO01 | O usuário deve poder realizar cadastro pelo app | Sim | [US-17][US] | - | - | - |
+| ELO02 | O usuário deve poder realizar login pelo app | Sim | [US-17][US] | - | - | - |
+| ELO03 | O usuário deve poder acessar o histórico de notificações do objeto | Não | - | - | - | - |
+| ELO04 | O usuário deve poder ativar bloqueio do aplicativo em caso de furto do dispositivo | Não | - | - | - | - |
+| ELO05 | O usuário deve ter a opção de utilização de chip de localização para rastreamento da encomenda | Não | - | - | - | - |
+| ELO06 | O usuário deve visualizar a estipulação de prazo de entrega | Sim | [US-05][US] | - | - | - |
+| ELO07 | O usuário deve visualizar a atualização do prazo de entrega caso ocorram variações | Não | - | - | - | - |
+| ELO08 | O usuário deve ter acesso a uma aba para contatos das empresas que postaram a encomenda | Não | - | - | - | - |
+| ELO09 | O usuário deve receber notificações push pelo aplicativo | Sim | [US-17][US] | - | - | - |
+| ELO10 | O usuário deve receber notificações SMS | Sim | [TM-03][TM] | - | - | - |
+| ELO11 | O usuário deve receber notificações pelo Whatsapp | Não | - | - | - | - |
+| ELO12 | O usuário deve ter acesso a um Chatbot para suporte ao cliente | Não | - | - | - | - |
+| ELO13 | O usuário deve poder visualizar um tutorial para realizar o rastreamento | Não | - | - | - | - |
+| ELO14 | O usuário deve poder receber o status da encomenda pelo WhatsApp | Não | - | - | - | - |
+| ELO15 | O usuário deve poder aumentar e diminuir a fonte | Não | - | - | - | - |
+| ELO16 | O usuário deve ter a opção de falar com um atendente para obter ajuda | Não | - | - | - | - |
+| ELO17 | O usuário deve ter acesso a uma página de FAQ (Perguntas Frequentes) | Não | - | - | - | - |
+| ELO18 | O usuário deve poder visualizar sua encomenda no mapa | Não | - | - | - | - |
+| ELO19 | O usuário deve poder visualizar detalhes da situação do produto | Sim | [TM-03][TM] | - | - | - |
+| ELO20 | O usuário deve poder realizar o rastreio por código mais simples | Não | - | - | - | - |
+| ELO21 | O usuário deve poder realizar o rastreio por QR Code | Sim | [CSO-05][CSO] e [CSO-06][CSO] | - | - | - |
+| ELO22 | O usuário deve receber notificação pelo e-mail | Não | - | - | - | - |
+| ELO23 | O usuário deve poder realizar o pagamento de impostos/taxas de importação pelo aplicativo | Não | - | - | - | - |
+| ELO24 | O usuário deve poder realizar a simulação de envio com as informações do objeto | Sim | [US-05][US] | - | - | - |
+| ELO25 | O aplicativo permite realizar login com sua conta | Sim | [US-05][US] | - | - | - |
+| ELO26 | O aplicativo permite rastreamento de encomendas por código. | Sim | [US-01][US] | - | - | - |
+| ELO27 | O aplicativo permite enviar encomendas (envelope, caixa, cilindro) | Sim | [CN-03][CN] | - | - | - |
+| ELO28 | O aplicativo possibilite ver seus pagamentos | Sim | [CSO-02][CSO] | - | - | - |
+| ELO29 | O aplicativo oferece uma busca por agências próximas ao seu endereço | Sim | [US-19][US] | - | - | - |
+| ELO30 | O aplicativo possibilita o cálculo de preços e prazos de encomendas nacionais e Eloernacionais | Sim | - | - | - | - |
+| ELO31 | O aplicativo possibilita a compra de certificados digitais dos correios | Sim | - | - | - | - |
+| ELO32 | O aplicativo oferece o acompanhamento da sua conta e realizar recargas pelo aplicativo | Sim | - | - | - | - |
+| ELO33 | O aplicativo permite visualização de mensagens | Sim | - | - | - | - |
+| ELO34 | O aplicativo oferece a visualização de vales postais | Sim | - | - | - | - |
+| ELO35 | O aplicativo oferece uma área de busca por objetos perdidos em envios | Sim | - | - | - | - |
+| ELO36 | O aplicativo fornece uma área de contato sobre violência contra a mulher | Sim | - | - | - | - |
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel .B][GabrielBGH], 2024. </p></font>
 
