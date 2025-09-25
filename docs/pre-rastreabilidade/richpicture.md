@@ -34,6 +34,6 @@ O Rich Picture é uma forma visual e informal para expressar ideias e analisar p
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
-`1.0` | 30/03/2024 | Primeira versão do Rich Picture  | [Claudio Henrique](https://github.com/claudiohsc) | [Ricardo](https://www.github.com/avmricardo)
+`1.0` | 30/03/2024 | Primeira versão do Rich Picture  | [Claudio Henrique](https://github.com/claudiohsc) | [Ricardo Augusto](https://www.github.com/avmricardo)
 `1.1` | 01/04/2024 | Adicionar nome "Bibliografia"  | [Claudio Henrique](https://github.com/claudiohsc) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)
-`1.2` | 14/04/2024 | Alteração do Rich Picture e Legenda  | [Claudio Henrique](https://github.com/claudiohsc) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Ricardo](https://www.github.com/avmricardo)
+`1.2` | 14/04/2024 | Alteração do Rich Picture e Legenda  | [Claudio Henrique](https://github.com/claudiohsc) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) & [Ricardo Augusto](https://www.github.com/avmricardo)

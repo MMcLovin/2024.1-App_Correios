@@ -43,7 +43,7 @@ Na Figura 1, é possível ver imagens do protótipo de alta fidelidade feito par
 <font size="2"><p style="text-align: center">Figura 1 - Tela inicial do protótipo.</p></font>
 
 <center markdown="1">
-![tela](../assets/prototypes/gabrielf/print%20prototipo%205.2.png)
+![tela](../assets/prototypes/gabrielf/print%20prototipo%205.2.png){ .img_rich_picture }
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Gabriel F. J. Silva][GabrielFGH]</p></font>

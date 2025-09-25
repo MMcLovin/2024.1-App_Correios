@@ -278,7 +278,7 @@ Na Tabela 2, está o cronograma executado nas atividades da primeira entrega.
 | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
 | :---: | :---: | :---: | :---: | :---: |
 | Ata de Reunião | Início: 20/06 Fim: 20/06 | [Elias F. Oliveira][EliasGH] | Início: Início: 24/06 Fim: 24/06 | [Gabriel B. Bertolazi][GabrielBGH]|
-| Rastreabilidade Backward | Início: 23/06 Fim: 24/06| [Cláudio][ClaudioGH], [Gabriel F. J. Silva][GabrielFGH] e [Ricardo Augusto][RicardoGH] | Início: 24/06 Fim: 24/06  | [Elias F. Oliveira][EliasGH] |
+| Rastreabilidade Backward | Início: 23/06 Fim: 24/06| [Cláudio Henrique][ClaudioGH], [Gabriel F. J. Silva][GabrielFGH] e [Ricardo Augusto][RicardoGH] | Início: 24/06 Fim: 24/06  | [Elias F. Oliveira][EliasGH] |
 | Rastreabilidade Forward | Início: 23/06 Fim: 24/06 | [Elias F. Oliveira][EliasGH], [Gabriel B. Bertolazi][GabrielBGH] | Início: 24/06  Fim: 24/06  | [Gabriel F. J. Silva][GabrielFGH] |
 | Matriz de rastreabilidade | Início: 23/06 Fim: 24/06  | [Danilo Carvalho][DaniloGH] e [Pablo S. Costa][PabloGH] | Início: 24/06 Fim: 24/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
 | Gravação da Apresentação e Entrega | Início: 24/06 Fim: 24/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 24/06  Fim: 24/06   | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
@@ -338,12 +338,12 @@ Disponível em:
 | `1.0` | 29/03/2024 | Criar cronograma planejado para entregas 1 e final| [Pablo S. Costa](https://github.com/pabloheika) | [Gabriel B. Bertolazi](https://github.com/Bertolazi) |
 | `1.1` | 30/03/2024 | Criar cronograma planejado para entregas 2 e 5.2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
 | `1.2` | 01/04/2024 | Criar cronograma planejado para entregas 3 e 6 | [Elias Oliveira](https://github.com/EliasOliveira21) | [Gabriel F. J. Silva](https://github.com/MMcLovin) |
-| `1.3` | 01/04/2024 | Criar cronograma planejado para entregas 4 e 5.1 | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias](https://github.com/EliasOliveira21) |
+| `1.3` | 01/04/2024 | Criar cronograma planejado para entregas 4 e 5.1 | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias Faria](https://github.com/EliasOliveira21) |
 | `1.4` | 25/04/2024 | Adiciona cronograma executado da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Ricardo Augusto](https://www.github.com/avmricardo) |
 | `1.5` | 01/05/2024 | Correção da data de gravação da entrega 2 | [Gabriel F. J. Silva](https://github.com/MMcLovin) | [Pablo S. Costa](https://github.com/pabloheika) |
-| `1.6` | 20/05/2024 | Ajuste Cronograma planejado e Adiciona cronograma executado da entrega 3  | [Elias](https://github.com/EliasOliveira21) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|
-| `1.7` | 27/05/2024 | Ajuste Cronograma planejado e Adiciona cronograma executado da entrega 4  | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias](https://github.com/EliasOliveira21)|
-| `1.8` | 24/06/2024 | Adiciona cronograma executado da entrega 6 | [Elias](https://github.com/EliasOliveira21) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
+| `1.6` | 20/05/2024 | Ajuste Cronograma planejado e Adiciona cronograma executado da entrega 3  | [Elias Faria](https://github.com/EliasOliveira21) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes)|
+| `1.7` | 27/05/2024 | Ajuste Cronograma planejado e Adiciona cronograma executado da entrega 4  | [Gabriel B. Bertolazi](https://github.com/Bertolazi) | [Elias Faria](https://github.com/EliasOliveira21)|
+| `1.8` | 24/06/2024 | Adiciona cronograma executado da entrega 6 | [Elias Faria](https://github.com/EliasOliveira21) | [Danilo Carvalho](https://github.com/Danilo-Carvalho-Antunes) |
 | `1.9` | 08/07/2024 | Atualiza cronograma da entrega final e Adiciona executado da entrega 5.2 e final | [Gabriel F. J. Silva](https://github.com/MMcLovin) e [Pablo S. Costa][PabloGH] | [Ricardo Augusto][RicardoGH] |
 
 [ClaudioGH]: https://github.com/claudiohsc

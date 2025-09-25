@@ -298,9 +298,9 @@ Nesse artefato temos todos os cronogrmas planejados e executados, com os devidos
     | Atividade | Período de desenvolvimento | Responsáveis | Revisão | Revisores |
     | :---: | :---: | :---: | :---: | :---: |
     | Ata de Reunião | Início: 20/06 Fim: 20/06 | [Elias F. Oliveira][EliasGH] | Início: Início: 24/06 Fim: 24/06 | [Gabriel B. Bertolazi][GabrielBGH]|
-    | Rastreabilidade Backward | Início: 23/06 Fim: 24/06| [Cláudio][ClaudioGH], [Gabriel F. J. Silva][GabrielFGH] e [Ricardo][RicardoGH] | Início: 24/06 Fim: 24/06  | [Elias F. Oliveira][EliasGH] |
+    | Rastreabilidade Backward | Início: 23/06 Fim: 24/06| [Cláudio Henrique][ClaudioGH], [Gabriel F. J. Silva][GabrielFGH] e [Ricardo Augusto][RicardoGH] | Início: 24/06 Fim: 24/06  | [Elias F. Oliveira][EliasGH] |
     | Rastreabilidade Forward | Início: 23/06 Fim: 24/06 | [Elias F. Oliveira][EliasGH], [Gabriel B.][GabrielBGH] | Início: 24/06  Fim: 24/06  | [Gabriel F.][GabrielFGH] |
-    | Matriz de rastreabilidade | Início: 23/06 Fim: 24/06  | [Danilo][DaniloGH] e [Pablo][PabloGH] | Início: 24/06 Fim: 24/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
+    | Matriz de rastreabilidade | Início: 23/06 Fim: 24/06  | [Danilo Carvalho][DaniloGH] e [Pablo][PabloGH] | Início: 24/06 Fim: 24/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
     | Gravação da Apresentação e Entrega | Início: 24/06 Fim: 24/06  | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo | Início: 24/06  Fim: 24/06   | Cláudio, Danilo, Elias, Gabriel B. Bertolazi, Gabriel F. J. Silva, Pablo, Ricardo |
     | Correção pós apresentação | Início: 26/06  <br>Fim: 27/06 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi | Início: 28/06  <br>Fim: 28/06 | Cláudio, Danilo, Elias, Gabriel F. J. Silva, Pablo, Ricardo, Gabriel B. Bertolazi |
 
