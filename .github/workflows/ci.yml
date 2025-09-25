@@ -2,15 +2,15 @@ name: ci
 
 on:
   push:
-    branches:
-      - master
-      - main
+    branches: main
+  pull_request:
+    branches: main
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Permissão de escrita para fazer o deploy
+      contents: write 
 
     steps:
       - name: Checkout repository
